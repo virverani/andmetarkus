@@ -350,6 +350,29 @@ FROM
 INNER JOIN
 	SalesRepDiscount on SalesRep.SalesRepID = SalesRepDiscount.SalesRepID;
     
+-- TABELITE KOMBINEERIMINE
+-- Leia tabelite pealt unikaalsed väärtused: Leia kliendid, kellel oli müüke 2025. aastal või enne 2021. aastat -- UNION
+-- UNION jaoks on vaja valida sama palju ja sama tüüpi tulbad tabelitest.
+SELECT CustomerID
+FROM SalesTable
+WHERE Date >= '2025-01-01'
+UNION
+SELECT CustomerID
+FROM SalesTable
+WHERE Date < '2021-01-01';
+
+
+-- Leia kõik väärtused mitmest tabelist: Leia kõik müügid 2025. aastal või enne 2021. aastat -- UNION ALL
+-- UNION ALL jaoks on vaja valida sama palju ja sama tüüpi tulbad tabelitest.
+SELECT SaleID, CustomerID
+FROM SalesTable
+WHERE Date >= '2025-01-01'
+UNION
+SELECT SaleID, CustomerID
+FROM SalesTable
+WHERE Date < '2021-01-01';
+
+
 -- Rohkem funktsioone ja SQL keelte eripärad leiad: https://www.w3schools.com/sql/
     
 
