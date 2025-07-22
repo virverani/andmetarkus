@@ -372,7 +372,6 @@ SELECT SaleID, CustomerID
 FROM SalesTable
 WHERE Date < '2021-01-01';
 
-
 -- Rohkem funktsioone ja SQL keelte eripärad leiad: https://www.w3schools.com/sql/
     
 
