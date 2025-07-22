@@ -1,58 +1,58 @@
 ```mermaid
 erDiagram
     Customers {
-        VARCHAR(10) CustomerID PK
-        VARCHAR(255) CustomerName
-        VARCHAR(100) Industry
-        VARCHAR(100) Country
-        VARCHAR(10) RegionID FK
+        VARCHAR CustomerID PK
+        VARCHAR CustomerName
+        VARCHAR Industry
+        VARCHAR Country
+        VARCHAR RegionID FK
     }
 
     Products {
-        VARCHAR(10) ProductID PK
-        VARCHAR(255) ProductName
-        VARCHAR(100) Category
-        DECIMAL(10,2) CostPrice
-        VARCHAR(255) Manufacturer
+        VARCHAR ProductID PK
+        VARCHAR ProductName
+        VARCHAR Category
+        DECIMAL CostPrice
+        VARCHAR Manufacturer
     }
 
     Regions {
-        VARCHAR(10) RegionID PK
-        VARCHAR(100) RegionName
-        VARCHAR(100) Country
+        VARCHAR RegionID PK
+        VARCHAR RegionName
+        VARCHAR Country
     }
 
     SalesReps {
-        VARCHAR(10) SalesRepID PK
-        VARCHAR(255) Name
-        VARCHAR(10) RegionID FK
+        VARCHAR SalesRepID PK
+        VARCHAR Name
+        VARCHAR RegionID FK
     }
 
     Dates {
         DATE Date PK
         INT Year
         INT Quarter
-        VARCHAR(20) Month
-        VARCHAR(20) Weekday
+        VARCHAR Month
+        VARCHAR Weekday
         INT DayOfWeek
     }
 
     Sales {
-        VARCHAR(20) SaleID PK
+        VARCHAR SaleID PK
         DATE Date FK
-        VARCHAR(10) CustomerID FK
-        VARCHAR(10) ProductID FK
+        VARCHAR CustomerID FK
+        VARCHAR ProductID FK
         INT Quantity
-        DECIMAL(10,2) UnitPrice
-        DECIMAL(4,2) Discount
-        VARCHAR(10) SalesRepID FK
-        VARCHAR(10) RegionID FK
+        DECIMAL UnitPrice
+        DECIMAL Discount
+        VARCHAR SalesRepID FK
+        VARCHAR RegionID FK
     }
 
     Budget {
         DATE Date PK,FK
-        VARCHAR(255) SalesRep PK
-        DECIMAL(10,2) Budget
+        VARCHAR SalesRep PK
+        DECIMAL Budget
     }
 
     Customers ||--o{ Sales : "has"
