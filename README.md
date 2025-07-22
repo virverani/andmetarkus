@@ -1,3 +1,3 @@
 This is learning materials.
-Kursus Vali Andmetarkus!
+Kursus Vali Andmetarkus! 2025. aasta.
 
