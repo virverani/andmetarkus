@@ -1,5 +1,3 @@
--- Active: 1753095743157@@127.0.0.1@5432@postgres@sales
--- Active: 1753095743157@@127.0.0.1@5432@sales
 -- VALIMINE
 -- Valime esimesed 10 rida tabeliga tutvumiseks - LIMIT
 SELECT * 
