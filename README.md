@@ -1,2 +1,3 @@
 This is learning materials.
-Kursuse materjalid.
+Kursus Vali Andmetarkus!
+
