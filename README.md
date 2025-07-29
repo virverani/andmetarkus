@@ -1,3 +1,2 @@
-This is learning materials.
-Kursus Vali Andmetarkus!
+Siin on harjutused kursuse Vali Andmetarkus! jaoks.
 
