@@ -1,8 +1,0 @@
--- 11. ALAMPÄRINGUD - viide teisele päringule: Millised töötajad on keskmiselt andnud allahindlust üle 7,5%?
-
--- 12. AJUTISED PÄRINGUTULEMUSED (Common Table Expressions - CTEs): : Millised töötajad on keskmiselt andnud allahindlust üle 7,5% ja kui suur on keskmine antud allahindlus?
-
--- 13. TABELITE KOMBINEERIMINE
--- 13.1. Leia tabelite pealt unikaalsed väärtused: Leia kliendid, kellel oli müüke 2025. aastal või enne 2021. aastat -- UNION
-
--- 13.2. Leia kõik väärtused mitmest tabelist: Leia kõik müügid 2025. aastal või enne 2021. aastat -- UNION ALL
