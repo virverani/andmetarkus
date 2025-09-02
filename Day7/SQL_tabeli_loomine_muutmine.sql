@@ -1,10 +1,10 @@
 -- TABELI LOOMINE: Loo tabel eelarve jaoks. - CREATE TABLE
 CREATE TABLE budget_table (
+	budget_id serial not null Primary Key, 
     budget_date DATE,
     sales_rep_name VARCHAR (255),
     budget_sum NUMERIC(12,2)
 );
- 
 -- SISESTA ANDMED KÄSITSI: Sisesta kaks eelarverida. - INSERT INTO
 INSERT INTO budget_table (
     budget_date,
