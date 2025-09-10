@@ -1,0 +1,3719 @@
+{
+  "data": [
+    {
+      "timestamp": 1733014800,
+      "price": 10.23,
+      "datetime": "2024-12-01 03:00"
+    },
+    {
+      "timestamp": 1733018400,
+      "price": 10.49,
+      "datetime": "2024-12-01 04:00"
+    },
+    {
+      "timestamp": 1733022000,
+      "price": 10.95,
+      "datetime": "2024-12-01 05:00"
+    },
+    {
+      "timestamp": 1733025600,
+      "price": 20.93,
+      "datetime": "2024-12-01 06:00"
+    },
+    {
+      "timestamp": 1733029200,
+      "price": 21.02,
+      "datetime": "2024-12-01 07:00"
+    },
+    {
+      "timestamp": 1733032800,
+      "price": 21.63,
+      "datetime": "2024-12-01 08:00"
+    },
+    {
+      "timestamp": 1733036400,
+      "price": 21.54,
+      "datetime": "2024-12-01 09:00"
+    },
+    {
+      "timestamp": 1733040000,
+      "price": 21.7,
+      "datetime": "2024-12-01 10:00"
+    },
+    {
+      "timestamp": 1733043600,
+      "price": 21.78,
+      "datetime": "2024-12-01 11:00"
+    },
+    {
+      "timestamp": 1733047200,
+      "price": 25.03,
+      "datetime": "2024-12-01 12:00"
+    },
+    {
+      "timestamp": 1733050800,
+      "price": 79.95,
+      "datetime": "2024-12-01 13:00"
+    },
+    {
+      "timestamp": 1733054400,
+      "price": 79.99,
+      "datetime": "2024-12-01 14:00"
+    },
+    {
+      "timestamp": 1733058000,
+      "price": 84.1,
+      "datetime": "2024-12-01 15:00"
+    },
+    {
+      "timestamp": 1733061600,
+      "price": 85.02,
+      "datetime": "2024-12-01 16:00"
+    },
+    {
+      "timestamp": 1733065200,
+      "price": 107.55,
+      "datetime": "2024-12-01 17:00"
+    },
+    {
+      "timestamp": 1733068800,
+      "price": 99.84,
+      "datetime": "2024-12-01 18:00"
+    },
+    {
+      "timestamp": 1733072400,
+      "price": 57.38,
+      "datetime": "2024-12-01 19:00"
+    },
+    {
+      "timestamp": 1733076000,
+      "price": 40.21,
+      "datetime": "2024-12-01 20:00"
+    },
+    {
+      "timestamp": 1733079600,
+      "price": 25.08,
+      "datetime": "2024-12-01 21:00"
+    },
+    {
+      "timestamp": 1733083200,
+      "price": 18.94,
+      "datetime": "2024-12-01 22:00"
+    },
+    {
+      "timestamp": 1733086800,
+      "price": 25.0,
+      "datetime": "2024-12-01 23:00"
+    },
+    {
+      "timestamp": 1733090400,
+      "price": 17.35,
+      "datetime": "2024-12-02 00:00"
+    },
+    {
+      "timestamp": 1733094000,
+      "price": 23.99,
+      "datetime": "2024-12-02 01:00"
+    },
+    {
+      "timestamp": 1733097600,
+      "price": 25.02,
+      "datetime": "2024-12-02 02:00"
+    },
+    {
+      "timestamp": 1733101200,
+      "price": 25.0,
+      "datetime": "2024-12-02 03:00"
+    },
+    {
+      "timestamp": 1733104800,
+      "price": 25.02,
+      "datetime": "2024-12-02 04:00"
+    },
+    {
+      "timestamp": 1733108400,
+      "price": 8.49,
+      "datetime": "2024-12-02 05:00"
+    },
+    {
+      "timestamp": 1733112000,
+      "price": 35.05,
+      "datetime": "2024-12-02 06:00"
+    },
+    {
+      "timestamp": 1733115600,
+      "price": 84.1,
+      "datetime": "2024-12-02 07:00"
+    },
+    {
+      "timestamp": 1733119200,
+      "price": 146.54,
+      "datetime": "2024-12-02 08:00"
+    },
+    {
+      "timestamp": 1733122800,
+      "price": 151.44,
+      "datetime": "2024-12-02 09:00"
+    },
+    {
+      "timestamp": 1733126400,
+      "price": 110.08,
+      "datetime": "2024-12-02 10:00"
+    },
+    {
+      "timestamp": 1733130000,
+      "price": 93.04,
+      "datetime": "2024-12-02 11:00"
+    },
+    {
+      "timestamp": 1733133600,
+      "price": 84.09,
+      "datetime": "2024-12-02 12:00"
+    },
+    {
+      "timestamp": 1733137200,
+      "price": 84.1,
+      "datetime": "2024-12-02 13:00"
+    },
+    {
+      "timestamp": 1733140800,
+      "price": 84.1,
+      "datetime": "2024-12-02 14:00"
+    },
+    {
+      "timestamp": 1733144400,
+      "price": 110.02,
+      "datetime": "2024-12-02 15:00"
+    },
+    {
+      "timestamp": 1733148000,
+      "price": 110.04,
+      "datetime": "2024-12-02 16:00"
+    },
+    {
+      "timestamp": 1733151600,
+      "price": 110.03,
+      "datetime": "2024-12-02 17:00"
+    },
+    {
+      "timestamp": 1733155200,
+      "price": 110.03,
+      "datetime": "2024-12-02 18:00"
+    },
+    {
+      "timestamp": 1733158800,
+      "price": 84.1,
+      "datetime": "2024-12-02 19:00"
+    },
+    {
+      "timestamp": 1733162400,
+      "price": 84.1,
+      "datetime": "2024-12-02 20:00"
+    },
+    {
+      "timestamp": 1733166000,
+      "price": 79.98,
+      "datetime": "2024-12-02 21:00"
+    },
+    {
+      "timestamp": 1733169600,
+      "price": 39.23,
+      "datetime": "2024-12-02 22:00"
+    },
+    {
+      "timestamp": 1733173200,
+      "price": 34.18,
+      "datetime": "2024-12-02 23:00"
+    },
+    {
+      "timestamp": 1733176800,
+      "price": 26.14,
+      "datetime": "2024-12-03 00:00"
+    },
+    {
+      "timestamp": 1733180400,
+      "price": 24.61,
+      "datetime": "2024-12-03 01:00"
+    },
+    {
+      "timestamp": 1733184000,
+      "price": 24.59,
+      "datetime": "2024-12-03 02:00"
+    },
+    {
+      "timestamp": 1733187600,
+      "price": 8.9,
+      "datetime": "2024-12-03 03:00"
+    },
+    {
+      "timestamp": 1733191200,
+      "price": 8.28,
+      "datetime": "2024-12-03 04:00"
+    },
+    {
+      "timestamp": 1733194800,
+      "price": 18.94,
+      "datetime": "2024-12-03 05:00"
+    },
+    {
+      "timestamp": 1733198400,
+      "price": 49.57,
+      "datetime": "2024-12-03 06:00"
+    },
+    {
+      "timestamp": 1733202000,
+      "price": 85.6,
+      "datetime": "2024-12-03 07:00"
+    },
+    {
+      "timestamp": 1733205600,
+      "price": 142.48,
+      "datetime": "2024-12-03 08:00"
+    },
+    {
+      "timestamp": 1733209200,
+      "price": 154.99,
+      "datetime": "2024-12-03 09:00"
+    },
+    {
+      "timestamp": 1733212800,
+      "price": 144.63,
+      "datetime": "2024-12-03 10:00"
+    },
+    {
+      "timestamp": 1733216400,
+      "price": 127.55,
+      "datetime": "2024-12-03 11:00"
+    },
+    {
+      "timestamp": 1733220000,
+      "price": 144.97,
+      "datetime": "2024-12-03 12:00"
+    },
+    {
+      "timestamp": 1733223600,
+      "price": 124.94,
+      "datetime": "2024-12-03 13:00"
+    },
+    {
+      "timestamp": 1733227200,
+      "price": 158.04,
+      "datetime": "2024-12-03 14:00"
+    },
+    {
+      "timestamp": 1733230800,
+      "price": 150.0,
+      "datetime": "2024-12-03 15:00"
+    },
+    {
+      "timestamp": 1733234400,
+      "price": 95.12,
+      "datetime": "2024-12-03 16:00"
+    },
+    {
+      "timestamp": 1733238000,
+      "price": 97.22,
+      "datetime": "2024-12-03 17:00"
+    },
+    {
+      "timestamp": 1733241600,
+      "price": 182.57,
+      "datetime": "2024-12-03 18:00"
+    },
+    {
+      "timestamp": 1733245200,
+      "price": 168.77,
+      "datetime": "2024-12-03 19:00"
+    },
+    {
+      "timestamp": 1733248800,
+      "price": 158.47,
+      "datetime": "2024-12-03 20:00"
+    },
+    {
+      "timestamp": 1733252400,
+      "price": 138.99,
+      "datetime": "2024-12-03 21:00"
+    },
+    {
+      "timestamp": 1733256000,
+      "price": 119.74,
+      "datetime": "2024-12-03 22:00"
+    },
+    {
+      "timestamp": 1733259600,
+      "price": 85.6,
+      "datetime": "2024-12-03 23:00"
+    },
+    {
+      "timestamp": 1733263200,
+      "price": 48.19,
+      "datetime": "2024-12-04 00:00"
+    },
+    {
+      "timestamp": 1733266800,
+      "price": 38.82,
+      "datetime": "2024-12-04 01:00"
+    },
+    {
+      "timestamp": 1733270400,
+      "price": 40.56,
+      "datetime": "2024-12-04 02:00"
+    },
+    {
+      "timestamp": 1733274000,
+      "price": 43.21,
+      "datetime": "2024-12-04 03:00"
+    },
+    {
+      "timestamp": 1733277600,
+      "price": 48.09,
+      "datetime": "2024-12-04 04:00"
+    },
+    {
+      "timestamp": 1733281200,
+      "price": 58.75,
+      "datetime": "2024-12-04 05:00"
+    },
+    {
+      "timestamp": 1733284800,
+      "price": 71.34,
+      "datetime": "2024-12-04 06:00"
+    },
+    {
+      "timestamp": 1733288400,
+      "price": 144.3,
+      "datetime": "2024-12-04 07:00"
+    },
+    {
+      "timestamp": 1733292000,
+      "price": 207.54,
+      "datetime": "2024-12-04 08:00"
+    },
+    {
+      "timestamp": 1733295600,
+      "price": 272.79,
+      "datetime": "2024-12-04 09:00"
+    },
+    {
+      "timestamp": 1733299200,
+      "price": 248.22,
+      "datetime": "2024-12-04 10:00"
+    },
+    {
+      "timestamp": 1733302800,
+      "price": 216.28,
+      "datetime": "2024-12-04 11:00"
+    },
+    {
+      "timestamp": 1733306400,
+      "price": 202.75,
+      "datetime": "2024-12-04 12:00"
+    },
+    {
+      "timestamp": 1733310000,
+      "price": 206.45,
+      "datetime": "2024-12-04 13:00"
+    },
+    {
+      "timestamp": 1733313600,
+      "price": 179.7,
+      "datetime": "2024-12-04 14:00"
+    },
+    {
+      "timestamp": 1733317200,
+      "price": 162.61,
+      "datetime": "2024-12-04 15:00"
+    },
+    {
+      "timestamp": 1733320800,
+      "price": 171.6,
+      "datetime": "2024-12-04 16:00"
+    },
+    {
+      "timestamp": 1733324400,
+      "price": 171.52,
+      "datetime": "2024-12-04 17:00"
+    },
+    {
+      "timestamp": 1733328000,
+      "price": 154.72,
+      "datetime": "2024-12-04 18:00"
+    },
+    {
+      "timestamp": 1733331600,
+      "price": 140.19,
+      "datetime": "2024-12-04 19:00"
+    },
+    {
+      "timestamp": 1733335200,
+      "price": 88.34,
+      "datetime": "2024-12-04 20:00"
+    },
+    {
+      "timestamp": 1733338800,
+      "price": 79.23,
+      "datetime": "2024-12-04 21:00"
+    },
+    {
+      "timestamp": 1733342400,
+      "price": 78.06,
+      "datetime": "2024-12-04 22:00"
+    },
+    {
+      "timestamp": 1733346000,
+      "price": 47.49,
+      "datetime": "2024-12-04 23:00"
+    },
+    {
+      "timestamp": 1733349600,
+      "price": 26.19,
+      "datetime": "2024-12-05 00:00"
+    },
+    {
+      "timestamp": 1733353200,
+      "price": 45.0,
+      "datetime": "2024-12-05 01:00"
+    },
+    {
+      "timestamp": 1733356800,
+      "price": 24.5,
+      "datetime": "2024-12-05 02:00"
+    },
+    {
+      "timestamp": 1733360400,
+      "price": 6.4,
+      "datetime": "2024-12-05 03:00"
+    },
+    {
+      "timestamp": 1733364000,
+      "price": 4.92,
+      "datetime": "2024-12-05 04:00"
+    },
+    {
+      "timestamp": 1733367600,
+      "price": 6.39,
+      "datetime": "2024-12-05 05:00"
+    },
+    {
+      "timestamp": 1733371200,
+      "price": 43.89,
+      "datetime": "2024-12-05 06:00"
+    },
+    {
+      "timestamp": 1733374800,
+      "price": 83.06,
+      "datetime": "2024-12-05 07:00"
+    },
+    {
+      "timestamp": 1733378400,
+      "price": 117.53,
+      "datetime": "2024-12-05 08:00"
+    },
+    {
+      "timestamp": 1733382000,
+      "price": 124.99,
+      "datetime": "2024-12-05 09:00"
+    },
+    {
+      "timestamp": 1733385600,
+      "price": 106.3,
+      "datetime": "2024-12-05 10:00"
+    },
+    {
+      "timestamp": 1733389200,
+      "price": 97.68,
+      "datetime": "2024-12-05 11:00"
+    },
+    {
+      "timestamp": 1733392800,
+      "price": 85.13,
+      "datetime": "2024-12-05 12:00"
+    },
+    {
+      "timestamp": 1733396400,
+      "price": 84.19,
+      "datetime": "2024-12-05 13:00"
+    },
+    {
+      "timestamp": 1733400000,
+      "price": 84.19,
+      "datetime": "2024-12-05 14:00"
+    },
+    {
+      "timestamp": 1733403600,
+      "price": 84.19,
+      "datetime": "2024-12-05 15:00"
+    },
+    {
+      "timestamp": 1733407200,
+      "price": 84.2,
+      "datetime": "2024-12-05 16:00"
+    },
+    {
+      "timestamp": 1733410800,
+      "price": 84.19,
+      "datetime": "2024-12-05 17:00"
+    },
+    {
+      "timestamp": 1733414400,
+      "price": 84.19,
+      "datetime": "2024-12-05 18:00"
+    },
+    {
+      "timestamp": 1733418000,
+      "price": 84.19,
+      "datetime": "2024-12-05 19:00"
+    },
+    {
+      "timestamp": 1733421600,
+      "price": 30.85,
+      "datetime": "2024-12-05 20:00"
+    },
+    {
+      "timestamp": 1733425200,
+      "price": 12.91,
+      "datetime": "2024-12-05 21:00"
+    },
+    {
+      "timestamp": 1733428800,
+      "price": 12.8,
+      "datetime": "2024-12-05 22:00"
+    },
+    {
+      "timestamp": 1733432400,
+      "price": 24.98,
+      "datetime": "2024-12-05 23:00"
+    },
+    {
+      "timestamp": 1733436000,
+      "price": 14.48,
+      "datetime": "2024-12-06 00:00"
+    },
+    {
+      "timestamp": 1733439600,
+      "price": 57.38,
+      "datetime": "2024-12-06 01:00"
+    },
+    {
+      "timestamp": 1733443200,
+      "price": 52.87,
+      "datetime": "2024-12-06 02:00"
+    },
+    {
+      "timestamp": 1733446800,
+      "price": 48.76,
+      "datetime": "2024-12-06 03:00"
+    },
+    {
+      "timestamp": 1733450400,
+      "price": 47.49,
+      "datetime": "2024-12-06 04:00"
+    },
+    {
+      "timestamp": 1733454000,
+      "price": 50.36,
+      "datetime": "2024-12-06 05:00"
+    },
+    {
+      "timestamp": 1733457600,
+      "price": 55.0,
+      "datetime": "2024-12-06 06:00"
+    },
+    {
+      "timestamp": 1733461200,
+      "price": 94.0,
+      "datetime": "2024-12-06 07:00"
+    },
+    {
+      "timestamp": 1733464800,
+      "price": 114.0,
+      "datetime": "2024-12-06 08:00"
+    },
+    {
+      "timestamp": 1733468400,
+      "price": 129.78,
+      "datetime": "2024-12-06 09:00"
+    },
+    {
+      "timestamp": 1733472000,
+      "price": 106.0,
+      "datetime": "2024-12-06 10:00"
+    },
+    {
+      "timestamp": 1733475600,
+      "price": 125.77,
+      "datetime": "2024-12-06 11:00"
+    },
+    {
+      "timestamp": 1733479200,
+      "price": 85.08,
+      "datetime": "2024-12-06 12:00"
+    },
+    {
+      "timestamp": 1733482800,
+      "price": 90.2,
+      "datetime": "2024-12-06 13:00"
+    },
+    {
+      "timestamp": 1733486400,
+      "price": 125.06,
+      "datetime": "2024-12-06 14:00"
+    },
+    {
+      "timestamp": 1733490000,
+      "price": 104.33,
+      "datetime": "2024-12-06 15:00"
+    },
+    {
+      "timestamp": 1733493600,
+      "price": 167.76,
+      "datetime": "2024-12-06 16:00"
+    },
+    {
+      "timestamp": 1733497200,
+      "price": 107.54,
+      "datetime": "2024-12-06 17:00"
+    },
+    {
+      "timestamp": 1733500800,
+      "price": 125.5,
+      "datetime": "2024-12-06 18:00"
+    },
+    {
+      "timestamp": 1733504400,
+      "price": 128.18,
+      "datetime": "2024-12-06 19:00"
+    },
+    {
+      "timestamp": 1733508000,
+      "price": 164.39,
+      "datetime": "2024-12-06 20:00"
+    },
+    {
+      "timestamp": 1733511600,
+      "price": 83.8,
+      "datetime": "2024-12-06 21:00"
+    },
+    {
+      "timestamp": 1733515200,
+      "price": 83.8,
+      "datetime": "2024-12-06 22:00"
+    },
+    {
+      "timestamp": 1733518800,
+      "price": 82.35,
+      "datetime": "2024-12-06 23:00"
+    },
+    {
+      "timestamp": 1733522400,
+      "price": 65.01,
+      "datetime": "2024-12-07 00:00"
+    },
+    {
+      "timestamp": 1733526000,
+      "price": 89.44,
+      "datetime": "2024-12-07 01:00"
+    },
+    {
+      "timestamp": 1733529600,
+      "price": 88.99,
+      "datetime": "2024-12-07 02:00"
+    },
+    {
+      "timestamp": 1733533200,
+      "price": 83.39,
+      "datetime": "2024-12-07 03:00"
+    },
+    {
+      "timestamp": 1733536800,
+      "price": 81.73,
+      "datetime": "2024-12-07 04:00"
+    },
+    {
+      "timestamp": 1733540400,
+      "price": 85.09,
+      "datetime": "2024-12-07 05:00"
+    },
+    {
+      "timestamp": 1733544000,
+      "price": 83.4,
+      "datetime": "2024-12-07 06:00"
+    },
+    {
+      "timestamp": 1733547600,
+      "price": 85.05,
+      "datetime": "2024-12-07 07:00"
+    },
+    {
+      "timestamp": 1733551200,
+      "price": 83.4,
+      "datetime": "2024-12-07 08:00"
+    },
+    {
+      "timestamp": 1733554800,
+      "price": 89.0,
+      "datetime": "2024-12-07 09:00"
+    },
+    {
+      "timestamp": 1733558400,
+      "price": 144.23,
+      "datetime": "2024-12-07 10:00"
+    },
+    {
+      "timestamp": 1733562000,
+      "price": 87.21,
+      "datetime": "2024-12-07 11:00"
+    },
+    {
+      "timestamp": 1733565600,
+      "price": 85.06,
+      "datetime": "2024-12-07 12:00"
+    },
+    {
+      "timestamp": 1733569200,
+      "price": 89.0,
+      "datetime": "2024-12-07 13:00"
+    },
+    {
+      "timestamp": 1733572800,
+      "price": 124.08,
+      "datetime": "2024-12-07 14:00"
+    },
+    {
+      "timestamp": 1733576400,
+      "price": 89.0,
+      "datetime": "2024-12-07 15:00"
+    },
+    {
+      "timestamp": 1733580000,
+      "price": 98.98,
+      "datetime": "2024-12-07 16:00"
+    },
+    {
+      "timestamp": 1733583600,
+      "price": 146.56,
+      "datetime": "2024-12-07 17:00"
+    },
+    {
+      "timestamp": 1733587200,
+      "price": 88.99,
+      "datetime": "2024-12-07 18:00"
+    },
+    {
+      "timestamp": 1733590800,
+      "price": 119.23,
+      "datetime": "2024-12-07 19:00"
+    },
+    {
+      "timestamp": 1733594400,
+      "price": 85.08,
+      "datetime": "2024-12-07 20:00"
+    },
+    {
+      "timestamp": 1733598000,
+      "price": 83.4,
+      "datetime": "2024-12-07 21:00"
+    },
+    {
+      "timestamp": 1733601600,
+      "price": 85.05,
+      "datetime": "2024-12-07 22:00"
+    },
+    {
+      "timestamp": 1733605200,
+      "price": 83.39,
+      "datetime": "2024-12-07 23:00"
+    },
+    {
+      "timestamp": 1733608800,
+      "price": 75.04,
+      "datetime": "2024-12-08 00:00"
+    },
+    {
+      "timestamp": 1733612400,
+      "price": 84.1,
+      "datetime": "2024-12-08 01:00"
+    },
+    {
+      "timestamp": 1733616000,
+      "price": 84.09,
+      "datetime": "2024-12-08 02:00"
+    },
+    {
+      "timestamp": 1733619600,
+      "price": 84.09,
+      "datetime": "2024-12-08 03:00"
+    },
+    {
+      "timestamp": 1733623200,
+      "price": 84.09,
+      "datetime": "2024-12-08 04:00"
+    },
+    {
+      "timestamp": 1733626800,
+      "price": 84.09,
+      "datetime": "2024-12-08 05:00"
+    },
+    {
+      "timestamp": 1733630400,
+      "price": 85.07,
+      "datetime": "2024-12-08 06:00"
+    },
+    {
+      "timestamp": 1733634000,
+      "price": 55.07,
+      "datetime": "2024-12-08 07:00"
+    },
+    {
+      "timestamp": 1733637600,
+      "price": 50.1,
+      "datetime": "2024-12-08 08:00"
+    },
+    {
+      "timestamp": 1733641200,
+      "price": 93.3,
+      "datetime": "2024-12-08 09:00"
+    },
+    {
+      "timestamp": 1733644800,
+      "price": 110.36,
+      "datetime": "2024-12-08 10:00"
+    },
+    {
+      "timestamp": 1733648400,
+      "price": 111.52,
+      "datetime": "2024-12-08 11:00"
+    },
+    {
+      "timestamp": 1733652000,
+      "price": 118.24,
+      "datetime": "2024-12-08 12:00"
+    },
+    {
+      "timestamp": 1733655600,
+      "price": 110.2,
+      "datetime": "2024-12-08 13:00"
+    },
+    {
+      "timestamp": 1733659200,
+      "price": 85.03,
+      "datetime": "2024-12-08 14:00"
+    },
+    {
+      "timestamp": 1733662800,
+      "price": 85.15,
+      "datetime": "2024-12-08 15:00"
+    },
+    {
+      "timestamp": 1733666400,
+      "price": 93.29,
+      "datetime": "2024-12-08 16:00"
+    },
+    {
+      "timestamp": 1733670000,
+      "price": 93.29,
+      "datetime": "2024-12-08 17:00"
+    },
+    {
+      "timestamp": 1733673600,
+      "price": 130.23,
+      "datetime": "2024-12-08 18:00"
+    },
+    {
+      "timestamp": 1733677200,
+      "price": 131.52,
+      "datetime": "2024-12-08 19:00"
+    },
+    {
+      "timestamp": 1733680800,
+      "price": 93.29,
+      "datetime": "2024-12-08 20:00"
+    },
+    {
+      "timestamp": 1733684400,
+      "price": 70.39,
+      "datetime": "2024-12-08 21:00"
+    },
+    {
+      "timestamp": 1733688000,
+      "price": 84.46,
+      "datetime": "2024-12-08 22:00"
+    },
+    {
+      "timestamp": 1733691600,
+      "price": 55.08,
+      "datetime": "2024-12-08 23:00"
+    },
+    {
+      "timestamp": 1733695200,
+      "price": 54.76,
+      "datetime": "2024-12-09 00:00"
+    },
+    {
+      "timestamp": 1733698800,
+      "price": 71.83,
+      "datetime": "2024-12-09 01:00"
+    },
+    {
+      "timestamp": 1733702400,
+      "price": 56.37,
+      "datetime": "2024-12-09 02:00"
+    },
+    {
+      "timestamp": 1733706000,
+      "price": 35.23,
+      "datetime": "2024-12-09 03:00"
+    },
+    {
+      "timestamp": 1733709600,
+      "price": 35.01,
+      "datetime": "2024-12-09 04:00"
+    },
+    {
+      "timestamp": 1733713200,
+      "price": 41.04,
+      "datetime": "2024-12-09 05:00"
+    },
+    {
+      "timestamp": 1733716800,
+      "price": 76.94,
+      "datetime": "2024-12-09 06:00"
+    },
+    {
+      "timestamp": 1733720400,
+      "price": 112.89,
+      "datetime": "2024-12-09 07:00"
+    },
+    {
+      "timestamp": 1733724000,
+      "price": 110.82,
+      "datetime": "2024-12-09 08:00"
+    },
+    {
+      "timestamp": 1733727600,
+      "price": 163.45,
+      "datetime": "2024-12-09 09:00"
+    },
+    {
+      "timestamp": 1733731200,
+      "price": 199.99,
+      "datetime": "2024-12-09 10:00"
+    },
+    {
+      "timestamp": 1733734800,
+      "price": 239.99,
+      "datetime": "2024-12-09 11:00"
+    },
+    {
+      "timestamp": 1733738400,
+      "price": 187.01,
+      "datetime": "2024-12-09 12:00"
+    },
+    {
+      "timestamp": 1733742000,
+      "price": 139.35,
+      "datetime": "2024-12-09 13:00"
+    },
+    {
+      "timestamp": 1733745600,
+      "price": 137.05,
+      "datetime": "2024-12-09 14:00"
+    },
+    {
+      "timestamp": 1733749200,
+      "price": 134.18,
+      "datetime": "2024-12-09 15:00"
+    },
+    {
+      "timestamp": 1733752800,
+      "price": 123.75,
+      "datetime": "2024-12-09 16:00"
+    },
+    {
+      "timestamp": 1733756400,
+      "price": 122.7,
+      "datetime": "2024-12-09 17:00"
+    },
+    {
+      "timestamp": 1733760000,
+      "price": 118.68,
+      "datetime": "2024-12-09 18:00"
+    },
+    {
+      "timestamp": 1733763600,
+      "price": 115.53,
+      "datetime": "2024-12-09 19:00"
+    },
+    {
+      "timestamp": 1733767200,
+      "price": 110.07,
+      "datetime": "2024-12-09 20:00"
+    },
+    {
+      "timestamp": 1733770800,
+      "price": 105.11,
+      "datetime": "2024-12-09 21:00"
+    },
+    {
+      "timestamp": 1733774400,
+      "price": 92.18,
+      "datetime": "2024-12-09 22:00"
+    },
+    {
+      "timestamp": 1733778000,
+      "price": 84.1,
+      "datetime": "2024-12-09 23:00"
+    },
+    {
+      "timestamp": 1733781600,
+      "price": 75.33,
+      "datetime": "2024-12-10 00:00"
+    },
+    {
+      "timestamp": 1733785200,
+      "price": 94.93,
+      "datetime": "2024-12-10 01:00"
+    },
+    {
+      "timestamp": 1733788800,
+      "price": 91.56,
+      "datetime": "2024-12-10 02:00"
+    },
+    {
+      "timestamp": 1733792400,
+      "price": 88.87,
+      "datetime": "2024-12-10 03:00"
+    },
+    {
+      "timestamp": 1733796000,
+      "price": 85.9,
+      "datetime": "2024-12-10 04:00"
+    },
+    {
+      "timestamp": 1733799600,
+      "price": 93.81,
+      "datetime": "2024-12-10 05:00"
+    },
+    {
+      "timestamp": 1733803200,
+      "price": 106.54,
+      "datetime": "2024-12-10 06:00"
+    },
+    {
+      "timestamp": 1733806800,
+      "price": 126.69,
+      "datetime": "2024-12-10 07:00"
+    },
+    {
+      "timestamp": 1733810400,
+      "price": 137.47,
+      "datetime": "2024-12-10 08:00"
+    },
+    {
+      "timestamp": 1733814000,
+      "price": 175.49,
+      "datetime": "2024-12-10 09:00"
+    },
+    {
+      "timestamp": 1733817600,
+      "price": 184.45,
+      "datetime": "2024-12-10 10:00"
+    },
+    {
+      "timestamp": 1733821200,
+      "price": 187.65,
+      "datetime": "2024-12-10 11:00"
+    },
+    {
+      "timestamp": 1733824800,
+      "price": 189.24,
+      "datetime": "2024-12-10 12:00"
+    },
+    {
+      "timestamp": 1733828400,
+      "price": 183.33,
+      "datetime": "2024-12-10 13:00"
+    },
+    {
+      "timestamp": 1733832000,
+      "price": 194.88,
+      "datetime": "2024-12-10 14:00"
+    },
+    {
+      "timestamp": 1733835600,
+      "price": 191.66,
+      "datetime": "2024-12-10 15:00"
+    },
+    {
+      "timestamp": 1733839200,
+      "price": 199.41,
+      "datetime": "2024-12-10 16:00"
+    },
+    {
+      "timestamp": 1733842800,
+      "price": 199.73,
+      "datetime": "2024-12-10 17:00"
+    },
+    {
+      "timestamp": 1733846400,
+      "price": 200.01,
+      "datetime": "2024-12-10 18:00"
+    },
+    {
+      "timestamp": 1733850000,
+      "price": 180.59,
+      "datetime": "2024-12-10 19:00"
+    },
+    {
+      "timestamp": 1733853600,
+      "price": 177.55,
+      "datetime": "2024-12-10 20:00"
+    },
+    {
+      "timestamp": 1733857200,
+      "price": 163.93,
+      "datetime": "2024-12-10 21:00"
+    },
+    {
+      "timestamp": 1733860800,
+      "price": 148.69,
+      "datetime": "2024-12-10 22:00"
+    },
+    {
+      "timestamp": 1733864400,
+      "price": 85.58,
+      "datetime": "2024-12-10 23:00"
+    },
+    {
+      "timestamp": 1733868000,
+      "price": 75.59,
+      "datetime": "2024-12-11 00:00"
+    },
+    {
+      "timestamp": 1733871600,
+      "price": 82.7,
+      "datetime": "2024-12-11 01:00"
+    },
+    {
+      "timestamp": 1733875200,
+      "price": 82.69,
+      "datetime": "2024-12-11 02:00"
+    },
+    {
+      "timestamp": 1733878800,
+      "price": 79.98,
+      "datetime": "2024-12-11 03:00"
+    },
+    {
+      "timestamp": 1733882400,
+      "price": 62.49,
+      "datetime": "2024-12-11 04:00"
+    },
+    {
+      "timestamp": 1733886000,
+      "price": 79.94,
+      "datetime": "2024-12-11 05:00"
+    },
+    {
+      "timestamp": 1733889600,
+      "price": 69.68,
+      "datetime": "2024-12-11 06:00"
+    },
+    {
+      "timestamp": 1733893200,
+      "price": 131.2,
+      "datetime": "2024-12-11 07:00"
+    },
+    {
+      "timestamp": 1733896800,
+      "price": 221.72,
+      "datetime": "2024-12-11 08:00"
+    },
+    {
+      "timestamp": 1733900400,
+      "price": 362.3,
+      "datetime": "2024-12-11 09:00"
+    },
+    {
+      "timestamp": 1733904000,
+      "price": 371.22,
+      "datetime": "2024-12-11 10:00"
+    },
+    {
+      "timestamp": 1733907600,
+      "price": 344.61,
+      "datetime": "2024-12-11 11:00"
+    },
+    {
+      "timestamp": 1733911200,
+      "price": 234.92,
+      "datetime": "2024-12-11 12:00"
+    },
+    {
+      "timestamp": 1733914800,
+      "price": 300.06,
+      "datetime": "2024-12-11 13:00"
+    },
+    {
+      "timestamp": 1733918400,
+      "price": 300.03,
+      "datetime": "2024-12-11 14:00"
+    },
+    {
+      "timestamp": 1733922000,
+      "price": 366.85,
+      "datetime": "2024-12-11 15:00"
+    },
+    {
+      "timestamp": 1733925600,
+      "price": 375.59,
+      "datetime": "2024-12-11 16:00"
+    },
+    {
+      "timestamp": 1733929200,
+      "price": 431.67,
+      "datetime": "2024-12-11 17:00"
+    },
+    {
+      "timestamp": 1733932800,
+      "price": 392.73,
+      "datetime": "2024-12-11 18:00"
+    },
+    {
+      "timestamp": 1733936400,
+      "price": 290.0,
+      "datetime": "2024-12-11 19:00"
+    },
+    {
+      "timestamp": 1733940000,
+      "price": 266.16,
+      "datetime": "2024-12-11 20:00"
+    },
+    {
+      "timestamp": 1733943600,
+      "price": 116.33,
+      "datetime": "2024-12-11 21:00"
+    },
+    {
+      "timestamp": 1733947200,
+      "price": 145.97,
+      "datetime": "2024-12-11 22:00"
+    },
+    {
+      "timestamp": 1733950800,
+      "price": 132.95,
+      "datetime": "2024-12-11 23:00"
+    },
+    {
+      "timestamp": 1733954400,
+      "price": 121.5,
+      "datetime": "2024-12-12 00:00"
+    },
+    {
+      "timestamp": 1733958000,
+      "price": 113.09,
+      "datetime": "2024-12-12 01:00"
+    },
+    {
+      "timestamp": 1733961600,
+      "price": 105.48,
+      "datetime": "2024-12-12 02:00"
+    },
+    {
+      "timestamp": 1733965200,
+      "price": 101.7,
+      "datetime": "2024-12-12 03:00"
+    },
+    {
+      "timestamp": 1733968800,
+      "price": 99.96,
+      "datetime": "2024-12-12 04:00"
+    },
+    {
+      "timestamp": 1733972400,
+      "price": 110.86,
+      "datetime": "2024-12-12 05:00"
+    },
+    {
+      "timestamp": 1733976000,
+      "price": 121.81,
+      "datetime": "2024-12-12 06:00"
+    },
+    {
+      "timestamp": 1733979600,
+      "price": 173.41,
+      "datetime": "2024-12-12 07:00"
+    },
+    {
+      "timestamp": 1733983200,
+      "price": 542.03,
+      "datetime": "2024-12-12 08:00"
+    },
+    {
+      "timestamp": 1733986800,
+      "price": 483.07,
+      "datetime": "2024-12-12 09:00"
+    },
+    {
+      "timestamp": 1733990400,
+      "price": 192.85,
+      "datetime": "2024-12-12 10:00"
+    },
+    {
+      "timestamp": 1733994000,
+      "price": 85.07,
+      "datetime": "2024-12-12 11:00"
+    },
+    {
+      "timestamp": 1733997600,
+      "price": 84.0,
+      "datetime": "2024-12-12 12:00"
+    },
+    {
+      "timestamp": 1734001200,
+      "price": 85.07,
+      "datetime": "2024-12-12 13:00"
+    },
+    {
+      "timestamp": 1734004800,
+      "price": 85.19,
+      "datetime": "2024-12-12 14:00"
+    },
+    {
+      "timestamp": 1734008400,
+      "price": 193.97,
+      "datetime": "2024-12-12 15:00"
+    },
+    {
+      "timestamp": 1734012000,
+      "price": 190.52,
+      "datetime": "2024-12-12 16:00"
+    },
+    {
+      "timestamp": 1734015600,
+      "price": 200.04,
+      "datetime": "2024-12-12 17:00"
+    },
+    {
+      "timestamp": 1734019200,
+      "price": 114.4,
+      "datetime": "2024-12-12 18:00"
+    },
+    {
+      "timestamp": 1734022800,
+      "price": 85.18,
+      "datetime": "2024-12-12 19:00"
+    },
+    {
+      "timestamp": 1734026400,
+      "price": 84.0,
+      "datetime": "2024-12-12 20:00"
+    },
+    {
+      "timestamp": 1734030000,
+      "price": 84.0,
+      "datetime": "2024-12-12 21:00"
+    },
+    {
+      "timestamp": 1734033600,
+      "price": 146.55,
+      "datetime": "2024-12-12 22:00"
+    },
+    {
+      "timestamp": 1734037200,
+      "price": 132.96,
+      "datetime": "2024-12-12 23:00"
+    },
+    {
+      "timestamp": 1734040800,
+      "price": 98.49,
+      "datetime": "2024-12-13 00:00"
+    },
+    {
+      "timestamp": 1734044400,
+      "price": 84.29,
+      "datetime": "2024-12-13 01:00"
+    },
+    {
+      "timestamp": 1734048000,
+      "price": 84.29,
+      "datetime": "2024-12-13 02:00"
+    },
+    {
+      "timestamp": 1734051600,
+      "price": 84.3,
+      "datetime": "2024-12-13 03:00"
+    },
+    {
+      "timestamp": 1734055200,
+      "price": 84.3,
+      "datetime": "2024-12-13 04:00"
+    },
+    {
+      "timestamp": 1734058800,
+      "price": 99.95,
+      "datetime": "2024-12-13 05:00"
+    },
+    {
+      "timestamp": 1734062400,
+      "price": 120.02,
+      "datetime": "2024-12-13 06:00"
+    },
+    {
+      "timestamp": 1734066000,
+      "price": 189.99,
+      "datetime": "2024-12-13 07:00"
+    },
+    {
+      "timestamp": 1734069600,
+      "price": 248.02,
+      "datetime": "2024-12-13 08:00"
+    },
+    {
+      "timestamp": 1734073200,
+      "price": 300.0,
+      "datetime": "2024-12-13 09:00"
+    },
+    {
+      "timestamp": 1734076800,
+      "price": 273.23,
+      "datetime": "2024-12-13 10:00"
+    },
+    {
+      "timestamp": 1734080400,
+      "price": 206.81,
+      "datetime": "2024-12-13 11:00"
+    },
+    {
+      "timestamp": 1734084000,
+      "price": 200.01,
+      "datetime": "2024-12-13 12:00"
+    },
+    {
+      "timestamp": 1734087600,
+      "price": 164.46,
+      "datetime": "2024-12-13 13:00"
+    },
+    {
+      "timestamp": 1734091200,
+      "price": 163.43,
+      "datetime": "2024-12-13 14:00"
+    },
+    {
+      "timestamp": 1734094800,
+      "price": 163.67,
+      "datetime": "2024-12-13 15:00"
+    },
+    {
+      "timestamp": 1734098400,
+      "price": 224.04,
+      "datetime": "2024-12-13 16:00"
+    },
+    {
+      "timestamp": 1734102000,
+      "price": 200.06,
+      "datetime": "2024-12-13 17:00"
+    },
+    {
+      "timestamp": 1734105600,
+      "price": 123.41,
+      "datetime": "2024-12-13 18:00"
+    },
+    {
+      "timestamp": 1734109200,
+      "price": 117.61,
+      "datetime": "2024-12-13 19:00"
+    },
+    {
+      "timestamp": 1734112800,
+      "price": 84.3,
+      "datetime": "2024-12-13 20:00"
+    },
+    {
+      "timestamp": 1734116400,
+      "price": 84.29,
+      "datetime": "2024-12-13 21:00"
+    },
+    {
+      "timestamp": 1734120000,
+      "price": 53.02,
+      "datetime": "2024-12-13 22:00"
+    },
+    {
+      "timestamp": 1734123600,
+      "price": 50.46,
+      "datetime": "2024-12-13 23:00"
+    },
+    {
+      "timestamp": 1734127200,
+      "price": 31.26,
+      "datetime": "2024-12-14 00:00"
+    },
+    {
+      "timestamp": 1734130800,
+      "price": 39.67,
+      "datetime": "2024-12-14 01:00"
+    },
+    {
+      "timestamp": 1734134400,
+      "price": 30.87,
+      "datetime": "2024-12-14 02:00"
+    },
+    {
+      "timestamp": 1734138000,
+      "price": 27.63,
+      "datetime": "2024-12-14 03:00"
+    },
+    {
+      "timestamp": 1734141600,
+      "price": 25.34,
+      "datetime": "2024-12-14 04:00"
+    },
+    {
+      "timestamp": 1734145200,
+      "price": 25.07,
+      "datetime": "2024-12-14 05:00"
+    },
+    {
+      "timestamp": 1734148800,
+      "price": 25.01,
+      "datetime": "2024-12-14 06:00"
+    },
+    {
+      "timestamp": 1734152400,
+      "price": 50.06,
+      "datetime": "2024-12-14 07:00"
+    },
+    {
+      "timestamp": 1734156000,
+      "price": 30.08,
+      "datetime": "2024-12-14 08:00"
+    },
+    {
+      "timestamp": 1734159600,
+      "price": 85.01,
+      "datetime": "2024-12-14 09:00"
+    },
+    {
+      "timestamp": 1734163200,
+      "price": 94.3,
+      "datetime": "2024-12-14 10:00"
+    },
+    {
+      "timestamp": 1734166800,
+      "price": 85.15,
+      "datetime": "2024-12-14 11:00"
+    },
+    {
+      "timestamp": 1734170400,
+      "price": 82.7,
+      "datetime": "2024-12-14 12:00"
+    },
+    {
+      "timestamp": 1734174000,
+      "price": 85.09,
+      "datetime": "2024-12-14 13:00"
+    },
+    {
+      "timestamp": 1734177600,
+      "price": 102.65,
+      "datetime": "2024-12-14 14:00"
+    },
+    {
+      "timestamp": 1734181200,
+      "price": 35.46,
+      "datetime": "2024-12-14 15:00"
+    },
+    {
+      "timestamp": 1734184800,
+      "price": 85.18,
+      "datetime": "2024-12-14 16:00"
+    },
+    {
+      "timestamp": 1734188400,
+      "price": 45.0,
+      "datetime": "2024-12-14 17:00"
+    },
+    {
+      "timestamp": 1734192000,
+      "price": 104.37,
+      "datetime": "2024-12-14 18:00"
+    },
+    {
+      "timestamp": 1734195600,
+      "price": 25.05,
+      "datetime": "2024-12-14 19:00"
+    },
+    {
+      "timestamp": 1734199200,
+      "price": 6.85,
+      "datetime": "2024-12-14 20:00"
+    },
+    {
+      "timestamp": 1734202800,
+      "price": 9.98,
+      "datetime": "2024-12-14 21:00"
+    },
+    {
+      "timestamp": 1734206400,
+      "price": 10.02,
+      "datetime": "2024-12-14 22:00"
+    },
+    {
+      "timestamp": 1734210000,
+      "price": 6.59,
+      "datetime": "2024-12-14 23:00"
+    },
+    {
+      "timestamp": 1734213600,
+      "price": 5.8,
+      "datetime": "2024-12-15 00:00"
+    },
+    {
+      "timestamp": 1734217200,
+      "price": 4.78,
+      "datetime": "2024-12-15 01:00"
+    },
+    {
+      "timestamp": 1734220800,
+      "price": 6.11,
+      "datetime": "2024-12-15 02:00"
+    },
+    {
+      "timestamp": 1734224400,
+      "price": 6.4,
+      "datetime": "2024-12-15 03:00"
+    },
+    {
+      "timestamp": 1734228000,
+      "price": 8.28,
+      "datetime": "2024-12-15 04:00"
+    },
+    {
+      "timestamp": 1734231600,
+      "price": 8.87,
+      "datetime": "2024-12-15 05:00"
+    },
+    {
+      "timestamp": 1734235200,
+      "price": 13.79,
+      "datetime": "2024-12-15 06:00"
+    },
+    {
+      "timestamp": 1734238800,
+      "price": 24.22,
+      "datetime": "2024-12-15 07:00"
+    },
+    {
+      "timestamp": 1734242400,
+      "price": 28.67,
+      "datetime": "2024-12-15 08:00"
+    },
+    {
+      "timestamp": 1734246000,
+      "price": 33.32,
+      "datetime": "2024-12-15 09:00"
+    },
+    {
+      "timestamp": 1734249600,
+      "price": 36.96,
+      "datetime": "2024-12-15 10:00"
+    },
+    {
+      "timestamp": 1734253200,
+      "price": 53.06,
+      "datetime": "2024-12-15 11:00"
+    },
+    {
+      "timestamp": 1734256800,
+      "price": 71.25,
+      "datetime": "2024-12-15 12:00"
+    },
+    {
+      "timestamp": 1734260400,
+      "price": 81.99,
+      "datetime": "2024-12-15 13:00"
+    },
+    {
+      "timestamp": 1734264000,
+      "price": 75.39,
+      "datetime": "2024-12-15 14:00"
+    },
+    {
+      "timestamp": 1734267600,
+      "price": 73.14,
+      "datetime": "2024-12-15 15:00"
+    },
+    {
+      "timestamp": 1734271200,
+      "price": 78.16,
+      "datetime": "2024-12-15 16:00"
+    },
+    {
+      "timestamp": 1734274800,
+      "price": 82.79,
+      "datetime": "2024-12-15 17:00"
+    },
+    {
+      "timestamp": 1734278400,
+      "price": 78.03,
+      "datetime": "2024-12-15 18:00"
+    },
+    {
+      "timestamp": 1734282000,
+      "price": 85.18,
+      "datetime": "2024-12-15 19:00"
+    },
+    {
+      "timestamp": 1734285600,
+      "price": 93.05,
+      "datetime": "2024-12-15 20:00"
+    },
+    {
+      "timestamp": 1734289200,
+      "price": 66.05,
+      "datetime": "2024-12-15 21:00"
+    },
+    {
+      "timestamp": 1734292800,
+      "price": 34.29,
+      "datetime": "2024-12-15 22:00"
+    },
+    {
+      "timestamp": 1734296400,
+      "price": 6.6,
+      "datetime": "2024-12-15 23:00"
+    },
+    {
+      "timestamp": 1734300000,
+      "price": 2.29,
+      "datetime": "2024-12-16 00:00"
+    },
+    {
+      "timestamp": 1734303600,
+      "price": 0.09,
+      "datetime": "2024-12-16 01:00"
+    },
+    {
+      "timestamp": 1734307200,
+      "price": 0.07,
+      "datetime": "2024-12-16 02:00"
+    },
+    {
+      "timestamp": 1734310800,
+      "price": 0.01,
+      "datetime": "2024-12-16 03:00"
+    },
+    {
+      "timestamp": 1734314400,
+      "price": 0.03,
+      "datetime": "2024-12-16 04:00"
+    },
+    {
+      "timestamp": 1734318000,
+      "price": 0.01,
+      "datetime": "2024-12-16 05:00"
+    },
+    {
+      "timestamp": 1734321600,
+      "price": 2.18,
+      "datetime": "2024-12-16 06:00"
+    },
+    {
+      "timestamp": 1734325200,
+      "price": 7.17,
+      "datetime": "2024-12-16 07:00"
+    },
+    {
+      "timestamp": 1734328800,
+      "price": 84.14,
+      "datetime": "2024-12-16 08:00"
+    },
+    {
+      "timestamp": 1734332400,
+      "price": 100.05,
+      "datetime": "2024-12-16 09:00"
+    },
+    {
+      "timestamp": 1734336000,
+      "price": 46.67,
+      "datetime": "2024-12-16 10:00"
+    },
+    {
+      "timestamp": 1734339600,
+      "price": 39.7,
+      "datetime": "2024-12-16 11:00"
+    },
+    {
+      "timestamp": 1734343200,
+      "price": 57.45,
+      "datetime": "2024-12-16 12:00"
+    },
+    {
+      "timestamp": 1734346800,
+      "price": 55.06,
+      "datetime": "2024-12-16 13:00"
+    },
+    {
+      "timestamp": 1734350400,
+      "price": 53.23,
+      "datetime": "2024-12-16 14:00"
+    },
+    {
+      "timestamp": 1734354000,
+      "price": 59.98,
+      "datetime": "2024-12-16 15:00"
+    },
+    {
+      "timestamp": 1734357600,
+      "price": 72.78,
+      "datetime": "2024-12-16 16:00"
+    },
+    {
+      "timestamp": 1734361200,
+      "price": 68.99,
+      "datetime": "2024-12-16 17:00"
+    },
+    {
+      "timestamp": 1734364800,
+      "price": 63.01,
+      "datetime": "2024-12-16 18:00"
+    },
+    {
+      "timestamp": 1734368400,
+      "price": 59.53,
+      "datetime": "2024-12-16 19:00"
+    },
+    {
+      "timestamp": 1734372000,
+      "price": 55.9,
+      "datetime": "2024-12-16 20:00"
+    },
+    {
+      "timestamp": 1734375600,
+      "price": 39.12,
+      "datetime": "2024-12-16 21:00"
+    },
+    {
+      "timestamp": 1734379200,
+      "price": 24.88,
+      "datetime": "2024-12-16 22:00"
+    },
+    {
+      "timestamp": 1734382800,
+      "price": 8.49,
+      "datetime": "2024-12-16 23:00"
+    },
+    {
+      "timestamp": 1734386400,
+      "price": 5.19,
+      "datetime": "2024-12-17 00:00"
+    },
+    {
+      "timestamp": 1734390000,
+      "price": 4.53,
+      "datetime": "2024-12-17 01:00"
+    },
+    {
+      "timestamp": 1734393600,
+      "price": 3.12,
+      "datetime": "2024-12-17 02:00"
+    },
+    {
+      "timestamp": 1734397200,
+      "price": 3.16,
+      "datetime": "2024-12-17 03:00"
+    },
+    {
+      "timestamp": 1734400800,
+      "price": 3.8,
+      "datetime": "2024-12-17 04:00"
+    },
+    {
+      "timestamp": 1734404400,
+      "price": 4.65,
+      "datetime": "2024-12-17 05:00"
+    },
+    {
+      "timestamp": 1734408000,
+      "price": 31.91,
+      "datetime": "2024-12-17 06:00"
+    },
+    {
+      "timestamp": 1734411600,
+      "price": 68.01,
+      "datetime": "2024-12-17 07:00"
+    },
+    {
+      "timestamp": 1734415200,
+      "price": 89.29,
+      "datetime": "2024-12-17 08:00"
+    },
+    {
+      "timestamp": 1734418800,
+      "price": 107.29,
+      "datetime": "2024-12-17 09:00"
+    },
+    {
+      "timestamp": 1734422400,
+      "price": 114.78,
+      "datetime": "2024-12-17 10:00"
+    },
+    {
+      "timestamp": 1734426000,
+      "price": 105.03,
+      "datetime": "2024-12-17 11:00"
+    },
+    {
+      "timestamp": 1734429600,
+      "price": 100.0,
+      "datetime": "2024-12-17 12:00"
+    },
+    {
+      "timestamp": 1734433200,
+      "price": 132.5,
+      "datetime": "2024-12-17 13:00"
+    },
+    {
+      "timestamp": 1734436800,
+      "price": 135.35,
+      "datetime": "2024-12-17 14:00"
+    },
+    {
+      "timestamp": 1734440400,
+      "price": 185.03,
+      "datetime": "2024-12-17 15:00"
+    },
+    {
+      "timestamp": 1734444000,
+      "price": 202.08,
+      "datetime": "2024-12-17 16:00"
+    },
+    {
+      "timestamp": 1734447600,
+      "price": 189.99,
+      "datetime": "2024-12-17 17:00"
+    },
+    {
+      "timestamp": 1734451200,
+      "price": 185.02,
+      "datetime": "2024-12-17 18:00"
+    },
+    {
+      "timestamp": 1734454800,
+      "price": 203.48,
+      "datetime": "2024-12-17 19:00"
+    },
+    {
+      "timestamp": 1734458400,
+      "price": 190.34,
+      "datetime": "2024-12-17 20:00"
+    },
+    {
+      "timestamp": 1734462000,
+      "price": 106.05,
+      "datetime": "2024-12-17 21:00"
+    },
+    {
+      "timestamp": 1734465600,
+      "price": 105.07,
+      "datetime": "2024-12-17 22:00"
+    },
+    {
+      "timestamp": 1734469200,
+      "price": 81.12,
+      "datetime": "2024-12-17 23:00"
+    },
+    {
+      "timestamp": 1734472800,
+      "price": 66.79,
+      "datetime": "2024-12-18 00:00"
+    },
+    {
+      "timestamp": 1734476400,
+      "price": 75.79,
+      "datetime": "2024-12-18 01:00"
+    },
+    {
+      "timestamp": 1734480000,
+      "price": 67.7,
+      "datetime": "2024-12-18 02:00"
+    },
+    {
+      "timestamp": 1734483600,
+      "price": 69.29,
+      "datetime": "2024-12-18 03:00"
+    },
+    {
+      "timestamp": 1734487200,
+      "price": 78.01,
+      "datetime": "2024-12-18 04:00"
+    },
+    {
+      "timestamp": 1734490800,
+      "price": 90.7,
+      "datetime": "2024-12-18 05:00"
+    },
+    {
+      "timestamp": 1734494400,
+      "price": 230.0,
+      "datetime": "2024-12-18 06:00"
+    },
+    {
+      "timestamp": 1734498000,
+      "price": 344.9,
+      "datetime": "2024-12-18 07:00"
+    },
+    {
+      "timestamp": 1734501600,
+      "price": 493.97,
+      "datetime": "2024-12-18 08:00"
+    },
+    {
+      "timestamp": 1734505200,
+      "price": 465.66,
+      "datetime": "2024-12-18 09:00"
+    },
+    {
+      "timestamp": 1734508800,
+      "price": 289.99,
+      "datetime": "2024-12-18 10:00"
+    },
+    {
+      "timestamp": 1734512400,
+      "price": 249.96,
+      "datetime": "2024-12-18 11:00"
+    },
+    {
+      "timestamp": 1734516000,
+      "price": 200.01,
+      "datetime": "2024-12-18 12:00"
+    },
+    {
+      "timestamp": 1734519600,
+      "price": 161.86,
+      "datetime": "2024-12-18 13:00"
+    },
+    {
+      "timestamp": 1734523200,
+      "price": 106.79,
+      "datetime": "2024-12-18 14:00"
+    },
+    {
+      "timestamp": 1734526800,
+      "price": 104.3,
+      "datetime": "2024-12-18 15:00"
+    },
+    {
+      "timestamp": 1734530400,
+      "price": 105.05,
+      "datetime": "2024-12-18 16:00"
+    },
+    {
+      "timestamp": 1734534000,
+      "price": 90.62,
+      "datetime": "2024-12-18 17:00"
+    },
+    {
+      "timestamp": 1734537600,
+      "price": 37.01,
+      "datetime": "2024-12-18 18:00"
+    },
+    {
+      "timestamp": 1734541200,
+      "price": 34.43,
+      "datetime": "2024-12-18 19:00"
+    },
+    {
+      "timestamp": 1734544800,
+      "price": 76.43,
+      "datetime": "2024-12-18 20:00"
+    },
+    {
+      "timestamp": 1734548400,
+      "price": 28.31,
+      "datetime": "2024-12-18 21:00"
+    },
+    {
+      "timestamp": 1734552000,
+      "price": 7.41,
+      "datetime": "2024-12-18 22:00"
+    },
+    {
+      "timestamp": 1734555600,
+      "price": 5.74,
+      "datetime": "2024-12-18 23:00"
+    },
+    {
+      "timestamp": 1734559200,
+      "price": 2.26,
+      "datetime": "2024-12-19 00:00"
+    },
+    {
+      "timestamp": 1734562800,
+      "price": 1.94,
+      "datetime": "2024-12-19 01:00"
+    },
+    {
+      "timestamp": 1734566400,
+      "price": 1.59,
+      "datetime": "2024-12-19 02:00"
+    },
+    {
+      "timestamp": 1734570000,
+      "price": 2.71,
+      "datetime": "2024-12-19 03:00"
+    },
+    {
+      "timestamp": 1734573600,
+      "price": 1.78,
+      "datetime": "2024-12-19 04:00"
+    },
+    {
+      "timestamp": 1734577200,
+      "price": 0.91,
+      "datetime": "2024-12-19 05:00"
+    },
+    {
+      "timestamp": 1734580800,
+      "price": 3.24,
+      "datetime": "2024-12-19 06:00"
+    },
+    {
+      "timestamp": 1734584400,
+      "price": 8.3,
+      "datetime": "2024-12-19 07:00"
+    },
+    {
+      "timestamp": 1734588000,
+      "price": 78.13,
+      "datetime": "2024-12-19 08:00"
+    },
+    {
+      "timestamp": 1734591600,
+      "price": 79.0,
+      "datetime": "2024-12-19 09:00"
+    },
+    {
+      "timestamp": 1734595200,
+      "price": 72.43,
+      "datetime": "2024-12-19 10:00"
+    },
+    {
+      "timestamp": 1734598800,
+      "price": 52.35,
+      "datetime": "2024-12-19 11:00"
+    },
+    {
+      "timestamp": 1734602400,
+      "price": 37.66,
+      "datetime": "2024-12-19 12:00"
+    },
+    {
+      "timestamp": 1734606000,
+      "price": 39.51,
+      "datetime": "2024-12-19 13:00"
+    },
+    {
+      "timestamp": 1734609600,
+      "price": 35.04,
+      "datetime": "2024-12-19 14:00"
+    },
+    {
+      "timestamp": 1734613200,
+      "price": 33.5,
+      "datetime": "2024-12-19 15:00"
+    },
+    {
+      "timestamp": 1734616800,
+      "price": 40.87,
+      "datetime": "2024-12-19 16:00"
+    },
+    {
+      "timestamp": 1734620400,
+      "price": 79.01,
+      "datetime": "2024-12-19 17:00"
+    },
+    {
+      "timestamp": 1734624000,
+      "price": 79.02,
+      "datetime": "2024-12-19 18:00"
+    },
+    {
+      "timestamp": 1734627600,
+      "price": 39.51,
+      "datetime": "2024-12-19 19:00"
+    },
+    {
+      "timestamp": 1734631200,
+      "price": 25.02,
+      "datetime": "2024-12-19 20:00"
+    },
+    {
+      "timestamp": 1734634800,
+      "price": 22.19,
+      "datetime": "2024-12-19 21:00"
+    },
+    {
+      "timestamp": 1734638400,
+      "price": 21.33,
+      "datetime": "2024-12-19 22:00"
+    },
+    {
+      "timestamp": 1734642000,
+      "price": 19.73,
+      "datetime": "2024-12-19 23:00"
+    },
+    {
+      "timestamp": 1734645600,
+      "price": 18.43,
+      "datetime": "2024-12-20 00:00"
+    },
+    {
+      "timestamp": 1734649200,
+      "price": 16.83,
+      "datetime": "2024-12-20 01:00"
+    },
+    {
+      "timestamp": 1734652800,
+      "price": 15.73,
+      "datetime": "2024-12-20 02:00"
+    },
+    {
+      "timestamp": 1734656400,
+      "price": 13.45,
+      "datetime": "2024-12-20 03:00"
+    },
+    {
+      "timestamp": 1734660000,
+      "price": 10.22,
+      "datetime": "2024-12-20 04:00"
+    },
+    {
+      "timestamp": 1734663600,
+      "price": 10.99,
+      "datetime": "2024-12-20 05:00"
+    },
+    {
+      "timestamp": 1734667200,
+      "price": 33.01,
+      "datetime": "2024-12-20 06:00"
+    },
+    {
+      "timestamp": 1734670800,
+      "price": 57.4,
+      "datetime": "2024-12-20 07:00"
+    },
+    {
+      "timestamp": 1734674400,
+      "price": 74.08,
+      "datetime": "2024-12-20 08:00"
+    },
+    {
+      "timestamp": 1734678000,
+      "price": 74.06,
+      "datetime": "2024-12-20 09:00"
+    },
+    {
+      "timestamp": 1734681600,
+      "price": 74.02,
+      "datetime": "2024-12-20 10:00"
+    },
+    {
+      "timestamp": 1734685200,
+      "price": 40.6,
+      "datetime": "2024-12-20 11:00"
+    },
+    {
+      "timestamp": 1734688800,
+      "price": 41.5,
+      "datetime": "2024-12-20 12:00"
+    },
+    {
+      "timestamp": 1734692400,
+      "price": 54.99,
+      "datetime": "2024-12-20 13:00"
+    },
+    {
+      "timestamp": 1734696000,
+      "price": 35.23,
+      "datetime": "2024-12-20 14:00"
+    },
+    {
+      "timestamp": 1734699600,
+      "price": 80.24,
+      "datetime": "2024-12-20 15:00"
+    },
+    {
+      "timestamp": 1734703200,
+      "price": 85.01,
+      "datetime": "2024-12-20 16:00"
+    },
+    {
+      "timestamp": 1734706800,
+      "price": 74.0,
+      "datetime": "2024-12-20 17:00"
+    },
+    {
+      "timestamp": 1734710400,
+      "price": 40.3,
+      "datetime": "2024-12-20 18:00"
+    },
+    {
+      "timestamp": 1734714000,
+      "price": 74.01,
+      "datetime": "2024-12-20 19:00"
+    },
+    {
+      "timestamp": 1734717600,
+      "price": 37.41,
+      "datetime": "2024-12-20 20:00"
+    },
+    {
+      "timestamp": 1734721200,
+      "price": 35.36,
+      "datetime": "2024-12-20 21:00"
+    },
+    {
+      "timestamp": 1734724800,
+      "price": 33.0,
+      "datetime": "2024-12-20 22:00"
+    },
+    {
+      "timestamp": 1734728400,
+      "price": 29.4,
+      "datetime": "2024-12-20 23:00"
+    },
+    {
+      "timestamp": 1734732000,
+      "price": 20.09,
+      "datetime": "2024-12-21 00:00"
+    },
+    {
+      "timestamp": 1734735600,
+      "price": 36.69,
+      "datetime": "2024-12-21 01:00"
+    },
+    {
+      "timestamp": 1734739200,
+      "price": 26.0,
+      "datetime": "2024-12-21 02:00"
+    },
+    {
+      "timestamp": 1734742800,
+      "price": 20.92,
+      "datetime": "2024-12-21 03:00"
+    },
+    {
+      "timestamp": 1734746400,
+      "price": 15.65,
+      "datetime": "2024-12-21 04:00"
+    },
+    {
+      "timestamp": 1734750000,
+      "price": 18.11,
+      "datetime": "2024-12-21 05:00"
+    },
+    {
+      "timestamp": 1734753600,
+      "price": 26.0,
+      "datetime": "2024-12-21 06:00"
+    },
+    {
+      "timestamp": 1734757200,
+      "price": 20.54,
+      "datetime": "2024-12-21 07:00"
+    },
+    {
+      "timestamp": 1734760800,
+      "price": 37.88,
+      "datetime": "2024-12-21 08:00"
+    },
+    {
+      "timestamp": 1734764400,
+      "price": 55.01,
+      "datetime": "2024-12-21 09:00"
+    },
+    {
+      "timestamp": 1734768000,
+      "price": 59.97,
+      "datetime": "2024-12-21 10:00"
+    },
+    {
+      "timestamp": 1734771600,
+      "price": 45.12,
+      "datetime": "2024-12-21 11:00"
+    },
+    {
+      "timestamp": 1734775200,
+      "price": 40.89,
+      "datetime": "2024-12-21 12:00"
+    },
+    {
+      "timestamp": 1734778800,
+      "price": 39.75,
+      "datetime": "2024-12-21 13:00"
+    },
+    {
+      "timestamp": 1734782400,
+      "price": 39.94,
+      "datetime": "2024-12-21 14:00"
+    },
+    {
+      "timestamp": 1734786000,
+      "price": 48.06,
+      "datetime": "2024-12-21 15:00"
+    },
+    {
+      "timestamp": 1734789600,
+      "price": 59.94,
+      "datetime": "2024-12-21 16:00"
+    },
+    {
+      "timestamp": 1734793200,
+      "price": 70.0,
+      "datetime": "2024-12-21 17:00"
+    },
+    {
+      "timestamp": 1734796800,
+      "price": 70.02,
+      "datetime": "2024-12-21 18:00"
+    },
+    {
+      "timestamp": 1734800400,
+      "price": 70.02,
+      "datetime": "2024-12-21 19:00"
+    },
+    {
+      "timestamp": 1734804000,
+      "price": 59.71,
+      "datetime": "2024-12-21 20:00"
+    },
+    {
+      "timestamp": 1734807600,
+      "price": 48.03,
+      "datetime": "2024-12-21 21:00"
+    },
+    {
+      "timestamp": 1734811200,
+      "price": 51.7,
+      "datetime": "2024-12-21 22:00"
+    },
+    {
+      "timestamp": 1734814800,
+      "price": 41.2,
+      "datetime": "2024-12-21 23:00"
+    },
+    {
+      "timestamp": 1734818400,
+      "price": 23.0,
+      "datetime": "2024-12-22 00:00"
+    },
+    {
+      "timestamp": 1734822000,
+      "price": 2.93,
+      "datetime": "2024-12-22 01:00"
+    },
+    {
+      "timestamp": 1734825600,
+      "price": 2.62,
+      "datetime": "2024-12-22 02:00"
+    },
+    {
+      "timestamp": 1734829200,
+      "price": 1.68,
+      "datetime": "2024-12-22 03:00"
+    },
+    {
+      "timestamp": 1734832800,
+      "price": 2.07,
+      "datetime": "2024-12-22 04:00"
+    },
+    {
+      "timestamp": 1734836400,
+      "price": 2.46,
+      "datetime": "2024-12-22 05:00"
+    },
+    {
+      "timestamp": 1734840000,
+      "price": 3.04,
+      "datetime": "2024-12-22 06:00"
+    },
+    {
+      "timestamp": 1734843600,
+      "price": 3.85,
+      "datetime": "2024-12-22 07:00"
+    },
+    {
+      "timestamp": 1734847200,
+      "price": 4.7,
+      "datetime": "2024-12-22 08:00"
+    },
+    {
+      "timestamp": 1734850800,
+      "price": 6.87,
+      "datetime": "2024-12-22 09:00"
+    },
+    {
+      "timestamp": 1734854400,
+      "price": 16.69,
+      "datetime": "2024-12-22 10:00"
+    },
+    {
+      "timestamp": 1734858000,
+      "price": 16.96,
+      "datetime": "2024-12-22 11:00"
+    },
+    {
+      "timestamp": 1734861600,
+      "price": 20.49,
+      "datetime": "2024-12-22 12:00"
+    },
+    {
+      "timestamp": 1734865200,
+      "price": 20.43,
+      "datetime": "2024-12-22 13:00"
+    },
+    {
+      "timestamp": 1734868800,
+      "price": 20.53,
+      "datetime": "2024-12-22 14:00"
+    },
+    {
+      "timestamp": 1734872400,
+      "price": 27.64,
+      "datetime": "2024-12-22 15:00"
+    },
+    {
+      "timestamp": 1734876000,
+      "price": 39.28,
+      "datetime": "2024-12-22 16:00"
+    },
+    {
+      "timestamp": 1734879600,
+      "price": 47.26,
+      "datetime": "2024-12-22 17:00"
+    },
+    {
+      "timestamp": 1734883200,
+      "price": 54.99,
+      "datetime": "2024-12-22 18:00"
+    },
+    {
+      "timestamp": 1734886800,
+      "price": 54.73,
+      "datetime": "2024-12-22 19:00"
+    },
+    {
+      "timestamp": 1734890400,
+      "price": 48.13,
+      "datetime": "2024-12-22 20:00"
+    },
+    {
+      "timestamp": 1734894000,
+      "price": 43.21,
+      "datetime": "2024-12-22 21:00"
+    },
+    {
+      "timestamp": 1734897600,
+      "price": 38.18,
+      "datetime": "2024-12-22 22:00"
+    },
+    {
+      "timestamp": 1734901200,
+      "price": 36.45,
+      "datetime": "2024-12-22 23:00"
+    },
+    {
+      "timestamp": 1734904800,
+      "price": 24.22,
+      "datetime": "2024-12-23 00:00"
+    },
+    {
+      "timestamp": 1734908400,
+      "price": 28.49,
+      "datetime": "2024-12-23 01:00"
+    },
+    {
+      "timestamp": 1734912000,
+      "price": 23.76,
+      "datetime": "2024-12-23 02:00"
+    },
+    {
+      "timestamp": 1734915600,
+      "price": 15.11,
+      "datetime": "2024-12-23 03:00"
+    },
+    {
+      "timestamp": 1734919200,
+      "price": 10.77,
+      "datetime": "2024-12-23 04:00"
+    },
+    {
+      "timestamp": 1734922800,
+      "price": 23.13,
+      "datetime": "2024-12-23 05:00"
+    },
+    {
+      "timestamp": 1734926400,
+      "price": 79.64,
+      "datetime": "2024-12-23 06:00"
+    },
+    {
+      "timestamp": 1734930000,
+      "price": 115.02,
+      "datetime": "2024-12-23 07:00"
+    },
+    {
+      "timestamp": 1734933600,
+      "price": 126.97,
+      "datetime": "2024-12-23 08:00"
+    },
+    {
+      "timestamp": 1734937200,
+      "price": 135.84,
+      "datetime": "2024-12-23 09:00"
+    },
+    {
+      "timestamp": 1734940800,
+      "price": 148.97,
+      "datetime": "2024-12-23 10:00"
+    },
+    {
+      "timestamp": 1734944400,
+      "price": 118.36,
+      "datetime": "2024-12-23 11:00"
+    },
+    {
+      "timestamp": 1734948000,
+      "price": 119.89,
+      "datetime": "2024-12-23 12:00"
+    },
+    {
+      "timestamp": 1734951600,
+      "price": 129.81,
+      "datetime": "2024-12-23 13:00"
+    },
+    {
+      "timestamp": 1734955200,
+      "price": 140.34,
+      "datetime": "2024-12-23 14:00"
+    },
+    {
+      "timestamp": 1734958800,
+      "price": 156.74,
+      "datetime": "2024-12-23 15:00"
+    },
+    {
+      "timestamp": 1734962400,
+      "price": 185.03,
+      "datetime": "2024-12-23 16:00"
+    },
+    {
+      "timestamp": 1734966000,
+      "price": 135.95,
+      "datetime": "2024-12-23 17:00"
+    },
+    {
+      "timestamp": 1734969600,
+      "price": 115.06,
+      "datetime": "2024-12-23 18:00"
+    },
+    {
+      "timestamp": 1734973200,
+      "price": 137.73,
+      "datetime": "2024-12-23 19:00"
+    },
+    {
+      "timestamp": 1734976800,
+      "price": 147.33,
+      "datetime": "2024-12-23 20:00"
+    },
+    {
+      "timestamp": 1734980400,
+      "price": 137.39,
+      "datetime": "2024-12-23 21:00"
+    },
+    {
+      "timestamp": 1734984000,
+      "price": 108.36,
+      "datetime": "2024-12-23 22:00"
+    },
+    {
+      "timestamp": 1734987600,
+      "price": 74.0,
+      "datetime": "2024-12-23 23:00"
+    },
+    {
+      "timestamp": 1734991200,
+      "price": 57.34,
+      "datetime": "2024-12-24 00:00"
+    },
+    {
+      "timestamp": 1734994800,
+      "price": 42.39,
+      "datetime": "2024-12-24 01:00"
+    },
+    {
+      "timestamp": 1734998400,
+      "price": 41.12,
+      "datetime": "2024-12-24 02:00"
+    },
+    {
+      "timestamp": 1735002000,
+      "price": 40.08,
+      "datetime": "2024-12-24 03:00"
+    },
+    {
+      "timestamp": 1735005600,
+      "price": 33.23,
+      "datetime": "2024-12-24 04:00"
+    },
+    {
+      "timestamp": 1735009200,
+      "price": 32.79,
+      "datetime": "2024-12-24 05:00"
+    },
+    {
+      "timestamp": 1735012800,
+      "price": 49.5,
+      "datetime": "2024-12-24 06:00"
+    },
+    {
+      "timestamp": 1735016400,
+      "price": 69.24,
+      "datetime": "2024-12-24 07:00"
+    },
+    {
+      "timestamp": 1735020000,
+      "price": 83.89,
+      "datetime": "2024-12-24 08:00"
+    },
+    {
+      "timestamp": 1735023600,
+      "price": 115.09,
+      "datetime": "2024-12-24 09:00"
+    },
+    {
+      "timestamp": 1735027200,
+      "price": 114.68,
+      "datetime": "2024-12-24 10:00"
+    },
+    {
+      "timestamp": 1735030800,
+      "price": 83.89,
+      "datetime": "2024-12-24 11:00"
+    },
+    {
+      "timestamp": 1735034400,
+      "price": 90.04,
+      "datetime": "2024-12-24 12:00"
+    },
+    {
+      "timestamp": 1735038000,
+      "price": 90.07,
+      "datetime": "2024-12-24 13:00"
+    },
+    {
+      "timestamp": 1735041600,
+      "price": 90.09,
+      "datetime": "2024-12-24 14:00"
+    },
+    {
+      "timestamp": 1735045200,
+      "price": 117.98,
+      "datetime": "2024-12-24 15:00"
+    },
+    {
+      "timestamp": 1735048800,
+      "price": 119.5,
+      "datetime": "2024-12-24 16:00"
+    },
+    {
+      "timestamp": 1735052400,
+      "price": 100.09,
+      "datetime": "2024-12-24 17:00"
+    },
+    {
+      "timestamp": 1735056000,
+      "price": 118.0,
+      "datetime": "2024-12-24 18:00"
+    },
+    {
+      "timestamp": 1735059600,
+      "price": 110.98,
+      "datetime": "2024-12-24 19:00"
+    },
+    {
+      "timestamp": 1735063200,
+      "price": 80.1,
+      "datetime": "2024-12-24 20:00"
+    },
+    {
+      "timestamp": 1735066800,
+      "price": 83.89,
+      "datetime": "2024-12-24 21:00"
+    },
+    {
+      "timestamp": 1735070400,
+      "price": 6.59,
+      "datetime": "2024-12-24 22:00"
+    },
+    {
+      "timestamp": 1735074000,
+      "price": 5.81,
+      "datetime": "2024-12-24 23:00"
+    },
+    {
+      "timestamp": 1735077600,
+      "price": 6.6,
+      "datetime": "2024-12-25 00:00"
+    },
+    {
+      "timestamp": 1735081200,
+      "price": 25.06,
+      "datetime": "2024-12-25 01:00"
+    },
+    {
+      "timestamp": 1735084800,
+      "price": 25.01,
+      "datetime": "2024-12-25 02:00"
+    },
+    {
+      "timestamp": 1735088400,
+      "price": 5.79,
+      "datetime": "2024-12-25 03:00"
+    },
+    {
+      "timestamp": 1735092000,
+      "price": 5.78,
+      "datetime": "2024-12-25 04:00"
+    },
+    {
+      "timestamp": 1735095600,
+      "price": 5.78,
+      "datetime": "2024-12-25 05:00"
+    },
+    {
+      "timestamp": 1735099200,
+      "price": 2.4,
+      "datetime": "2024-12-25 06:00"
+    },
+    {
+      "timestamp": 1735102800,
+      "price": 5.35,
+      "datetime": "2024-12-25 07:00"
+    },
+    {
+      "timestamp": 1735106400,
+      "price": 12.09,
+      "datetime": "2024-12-25 08:00"
+    },
+    {
+      "timestamp": 1735110000,
+      "price": 10.23,
+      "datetime": "2024-12-25 09:00"
+    },
+    {
+      "timestamp": 1735113600,
+      "price": 12.8,
+      "datetime": "2024-12-25 10:00"
+    },
+    {
+      "timestamp": 1735117200,
+      "price": 14.22,
+      "datetime": "2024-12-25 11:00"
+    },
+    {
+      "timestamp": 1735120800,
+      "price": 14.56,
+      "datetime": "2024-12-25 12:00"
+    },
+    {
+      "timestamp": 1735124400,
+      "price": 14.53,
+      "datetime": "2024-12-25 13:00"
+    },
+    {
+      "timestamp": 1735128000,
+      "price": 14.15,
+      "datetime": "2024-12-25 14:00"
+    },
+    {
+      "timestamp": 1735131600,
+      "price": 13.53,
+      "datetime": "2024-12-25 15:00"
+    },
+    {
+      "timestamp": 1735135200,
+      "price": 14.49,
+      "datetime": "2024-12-25 16:00"
+    },
+    {
+      "timestamp": 1735138800,
+      "price": 15.7,
+      "datetime": "2024-12-25 17:00"
+    },
+    {
+      "timestamp": 1735142400,
+      "price": 15.79,
+      "datetime": "2024-12-25 18:00"
+    },
+    {
+      "timestamp": 1735146000,
+      "price": 16.28,
+      "datetime": "2024-12-25 19:00"
+    },
+    {
+      "timestamp": 1735149600,
+      "price": 14.27,
+      "datetime": "2024-12-25 20:00"
+    },
+    {
+      "timestamp": 1735153200,
+      "price": 14.7,
+      "datetime": "2024-12-25 21:00"
+    },
+    {
+      "timestamp": 1735156800,
+      "price": 8.91,
+      "datetime": "2024-12-25 22:00"
+    },
+    {
+      "timestamp": 1735160400,
+      "price": 4.67,
+      "datetime": "2024-12-25 23:00"
+    },
+    {
+      "timestamp": 1735164000,
+      "price": 4.09,
+      "datetime": "2024-12-26 00:00"
+    },
+    {
+      "timestamp": 1735167600,
+      "price": 2.54,
+      "datetime": "2024-12-26 01:00"
+    },
+    {
+      "timestamp": 1735171200,
+      "price": 2.1,
+      "datetime": "2024-12-26 02:00"
+    },
+    {
+      "timestamp": 1735174800,
+      "price": 1.5,
+      "datetime": "2024-12-26 03:00"
+    },
+    {
+      "timestamp": 1735178400,
+      "price": 0.2,
+      "datetime": "2024-12-26 04:00"
+    },
+    {
+      "timestamp": 1735182000,
+      "price": 0.01,
+      "datetime": "2024-12-26 05:00"
+    },
+    {
+      "timestamp": 1735185600,
+      "price": 3.0,
+      "datetime": "2024-12-26 06:00"
+    },
+    {
+      "timestamp": 1735189200,
+      "price": 3.07,
+      "datetime": "2024-12-26 07:00"
+    },
+    {
+      "timestamp": 1735192800,
+      "price": 5.3,
+      "datetime": "2024-12-26 08:00"
+    },
+    {
+      "timestamp": 1735196400,
+      "price": 5.7,
+      "datetime": "2024-12-26 09:00"
+    },
+    {
+      "timestamp": 1735200000,
+      "price": 5.79,
+      "datetime": "2024-12-26 10:00"
+    },
+    {
+      "timestamp": 1735203600,
+      "price": 5.8,
+      "datetime": "2024-12-26 11:00"
+    },
+    {
+      "timestamp": 1735207200,
+      "price": 6.19,
+      "datetime": "2024-12-26 12:00"
+    },
+    {
+      "timestamp": 1735210800,
+      "price": 5.79,
+      "datetime": "2024-12-26 13:00"
+    },
+    {
+      "timestamp": 1735214400,
+      "price": 22.66,
+      "datetime": "2024-12-26 14:00"
+    },
+    {
+      "timestamp": 1735218000,
+      "price": 26.97,
+      "datetime": "2024-12-26 15:00"
+    },
+    {
+      "timestamp": 1735221600,
+      "price": 85.17,
+      "datetime": "2024-12-26 16:00"
+    },
+    {
+      "timestamp": 1735225200,
+      "price": 80.07,
+      "datetime": "2024-12-26 17:00"
+    },
+    {
+      "timestamp": 1735228800,
+      "price": 85.17,
+      "datetime": "2024-12-26 18:00"
+    },
+    {
+      "timestamp": 1735232400,
+      "price": 80.04,
+      "datetime": "2024-12-26 19:00"
+    },
+    {
+      "timestamp": 1735236000,
+      "price": 80.03,
+      "datetime": "2024-12-26 20:00"
+    },
+    {
+      "timestamp": 1735239600,
+      "price": 80.07,
+      "datetime": "2024-12-26 21:00"
+    },
+    {
+      "timestamp": 1735243200,
+      "price": 99.92,
+      "datetime": "2024-12-26 22:00"
+    },
+    {
+      "timestamp": 1735246800,
+      "price": 25.27,
+      "datetime": "2024-12-26 23:00"
+    },
+    {
+      "timestamp": 1735250400,
+      "price": 85.12,
+      "datetime": "2024-12-27 00:00"
+    },
+    {
+      "timestamp": 1735254000,
+      "price": 106.79,
+      "datetime": "2024-12-27 01:00"
+    },
+    {
+      "timestamp": 1735257600,
+      "price": 101.52,
+      "datetime": "2024-12-27 02:00"
+    },
+    {
+      "timestamp": 1735261200,
+      "price": 101.03,
+      "datetime": "2024-12-27 03:00"
+    },
+    {
+      "timestamp": 1735264800,
+      "price": 99.74,
+      "datetime": "2024-12-27 04:00"
+    },
+    {
+      "timestamp": 1735268400,
+      "price": 99.58,
+      "datetime": "2024-12-27 05:00"
+    },
+    {
+      "timestamp": 1735272000,
+      "price": 106.2,
+      "datetime": "2024-12-27 06:00"
+    },
+    {
+      "timestamp": 1735275600,
+      "price": 128.9,
+      "datetime": "2024-12-27 07:00"
+    },
+    {
+      "timestamp": 1735279200,
+      "price": 203.56,
+      "datetime": "2024-12-27 08:00"
+    },
+    {
+      "timestamp": 1735282800,
+      "price": 222.57,
+      "datetime": "2024-12-27 09:00"
+    },
+    {
+      "timestamp": 1735286400,
+      "price": 166.16,
+      "datetime": "2024-12-27 10:00"
+    },
+    {
+      "timestamp": 1735290000,
+      "price": 133.93,
+      "datetime": "2024-12-27 11:00"
+    },
+    {
+      "timestamp": 1735293600,
+      "price": 107.94,
+      "datetime": "2024-12-27 12:00"
+    },
+    {
+      "timestamp": 1735297200,
+      "price": 115.37,
+      "datetime": "2024-12-27 13:00"
+    },
+    {
+      "timestamp": 1735300800,
+      "price": 107.94,
+      "datetime": "2024-12-27 14:00"
+    },
+    {
+      "timestamp": 1735304400,
+      "price": 176.59,
+      "datetime": "2024-12-27 15:00"
+    },
+    {
+      "timestamp": 1735308000,
+      "price": 220.0,
+      "datetime": "2024-12-27 16:00"
+    },
+    {
+      "timestamp": 1735311600,
+      "price": 220.06,
+      "datetime": "2024-12-27 17:00"
+    },
+    {
+      "timestamp": 1735315200,
+      "price": 190.14,
+      "datetime": "2024-12-27 18:00"
+    },
+    {
+      "timestamp": 1735318800,
+      "price": 158.4,
+      "datetime": "2024-12-27 19:00"
+    },
+    {
+      "timestamp": 1735322400,
+      "price": 146.43,
+      "datetime": "2024-12-27 20:00"
+    },
+    {
+      "timestamp": 1735326000,
+      "price": 133.14,
+      "datetime": "2024-12-27 21:00"
+    },
+    {
+      "timestamp": 1735329600,
+      "price": 125.42,
+      "datetime": "2024-12-27 22:00"
+    },
+    {
+      "timestamp": 1735333200,
+      "price": 126.76,
+      "datetime": "2024-12-27 23:00"
+    },
+    {
+      "timestamp": 1735336800,
+      "price": 114.0,
+      "datetime": "2024-12-28 00:00"
+    },
+    {
+      "timestamp": 1735340400,
+      "price": 126.4,
+      "datetime": "2024-12-28 01:00"
+    },
+    {
+      "timestamp": 1735344000,
+      "price": 116.63,
+      "datetime": "2024-12-28 02:00"
+    },
+    {
+      "timestamp": 1735347600,
+      "price": 110.15,
+      "datetime": "2024-12-28 03:00"
+    },
+    {
+      "timestamp": 1735351200,
+      "price": 105.92,
+      "datetime": "2024-12-28 04:00"
+    },
+    {
+      "timestamp": 1735354800,
+      "price": 102.93,
+      "datetime": "2024-12-28 05:00"
+    },
+    {
+      "timestamp": 1735358400,
+      "price": 157.7,
+      "datetime": "2024-12-28 06:00"
+    },
+    {
+      "timestamp": 1735362000,
+      "price": 109.71,
+      "datetime": "2024-12-28 07:00"
+    },
+    {
+      "timestamp": 1735365600,
+      "price": 124.24,
+      "datetime": "2024-12-28 08:00"
+    },
+    {
+      "timestamp": 1735369200,
+      "price": 128.0,
+      "datetime": "2024-12-28 09:00"
+    },
+    {
+      "timestamp": 1735372800,
+      "price": 139.22,
+      "datetime": "2024-12-28 10:00"
+    },
+    {
+      "timestamp": 1735376400,
+      "price": 122.83,
+      "datetime": "2024-12-28 11:00"
+    },
+    {
+      "timestamp": 1735380000,
+      "price": 128.95,
+      "datetime": "2024-12-28 12:00"
+    },
+    {
+      "timestamp": 1735383600,
+      "price": 128.91,
+      "datetime": "2024-12-28 13:00"
+    },
+    {
+      "timestamp": 1735387200,
+      "price": 135.07,
+      "datetime": "2024-12-28 14:00"
+    },
+    {
+      "timestamp": 1735390800,
+      "price": 123.98,
+      "datetime": "2024-12-28 15:00"
+    },
+    {
+      "timestamp": 1735394400,
+      "price": 138.49,
+      "datetime": "2024-12-28 16:00"
+    },
+    {
+      "timestamp": 1735398000,
+      "price": 141.01,
+      "datetime": "2024-12-28 17:00"
+    },
+    {
+      "timestamp": 1735401600,
+      "price": 148.34,
+      "datetime": "2024-12-28 18:00"
+    },
+    {
+      "timestamp": 1735405200,
+      "price": 145.65,
+      "datetime": "2024-12-28 19:00"
+    },
+    {
+      "timestamp": 1735408800,
+      "price": 138.21,
+      "datetime": "2024-12-28 20:00"
+    },
+    {
+      "timestamp": 1735412400,
+      "price": 127.4,
+      "datetime": "2024-12-28 21:00"
+    },
+    {
+      "timestamp": 1735416000,
+      "price": 125.9,
+      "datetime": "2024-12-28 22:00"
+    },
+    {
+      "timestamp": 1735419600,
+      "price": 121.25,
+      "datetime": "2024-12-28 23:00"
+    },
+    {
+      "timestamp": 1735423200,
+      "price": 84.8,
+      "datetime": "2024-12-29 00:00"
+    },
+    {
+      "timestamp": 1735426800,
+      "price": 61.06,
+      "datetime": "2024-12-29 01:00"
+    },
+    {
+      "timestamp": 1735430400,
+      "price": 25.04,
+      "datetime": "2024-12-29 02:00"
+    },
+    {
+      "timestamp": 1735434000,
+      "price": 6.59,
+      "datetime": "2024-12-29 03:00"
+    },
+    {
+      "timestamp": 1735437600,
+      "price": 85.03,
+      "datetime": "2024-12-29 04:00"
+    },
+    {
+      "timestamp": 1735441200,
+      "price": 56.2,
+      "datetime": "2024-12-29 05:00"
+    },
+    {
+      "timestamp": 1735444800,
+      "price": 85.18,
+      "datetime": "2024-12-29 06:00"
+    },
+    {
+      "timestamp": 1735448400,
+      "price": 86.3,
+      "datetime": "2024-12-29 07:00"
+    },
+    {
+      "timestamp": 1735452000,
+      "price": 85.16,
+      "datetime": "2024-12-29 08:00"
+    },
+    {
+      "timestamp": 1735455600,
+      "price": 50.9,
+      "datetime": "2024-12-29 09:00"
+    },
+    {
+      "timestamp": 1735459200,
+      "price": 85.16,
+      "datetime": "2024-12-29 10:00"
+    },
+    {
+      "timestamp": 1735462800,
+      "price": 36.91,
+      "datetime": "2024-12-29 11:00"
+    },
+    {
+      "timestamp": 1735466400,
+      "price": 86.29,
+      "datetime": "2024-12-29 12:00"
+    },
+    {
+      "timestamp": 1735470000,
+      "price": 40.72,
+      "datetime": "2024-12-29 13:00"
+    },
+    {
+      "timestamp": 1735473600,
+      "price": 85.05,
+      "datetime": "2024-12-29 14:00"
+    },
+    {
+      "timestamp": 1735477200,
+      "price": 86.3,
+      "datetime": "2024-12-29 15:00"
+    },
+    {
+      "timestamp": 1735480800,
+      "price": 85.16,
+      "datetime": "2024-12-29 16:00"
+    },
+    {
+      "timestamp": 1735484400,
+      "price": 85.12,
+      "datetime": "2024-12-29 17:00"
+    },
+    {
+      "timestamp": 1735488000,
+      "price": 99.92,
+      "datetime": "2024-12-29 18:00"
+    },
+    {
+      "timestamp": 1735491600,
+      "price": 93.35,
+      "datetime": "2024-12-29 19:00"
+    },
+    {
+      "timestamp": 1735495200,
+      "price": 25.09,
+      "datetime": "2024-12-29 20:00"
+    },
+    {
+      "timestamp": 1735498800,
+      "price": 45.05,
+      "datetime": "2024-12-29 21:00"
+    },
+    {
+      "timestamp": 1735502400,
+      "price": 40.73,
+      "datetime": "2024-12-29 22:00"
+    },
+    {
+      "timestamp": 1735506000,
+      "price": 5.8,
+      "datetime": "2024-12-29 23:00"
+    },
+    {
+      "timestamp": 1735509600,
+      "price": 5.69,
+      "datetime": "2024-12-30 00:00"
+    },
+    {
+      "timestamp": 1735513200,
+      "price": 1.58,
+      "datetime": "2024-12-30 01:00"
+    },
+    {
+      "timestamp": 1735516800,
+      "price": 0.09,
+      "datetime": "2024-12-30 02:00"
+    },
+    {
+      "timestamp": 1735520400,
+      "price": 0.0,
+      "datetime": "2024-12-30 03:00"
+    },
+    {
+      "timestamp": 1735524000,
+      "price": 0.0,
+      "datetime": "2024-12-30 04:00"
+    },
+    {
+      "timestamp": 1735527600,
+      "price": 0.1,
+      "datetime": "2024-12-30 05:00"
+    },
+    {
+      "timestamp": 1735531200,
+      "price": 5.77,
+      "datetime": "2024-12-30 06:00"
+    },
+    {
+      "timestamp": 1735534800,
+      "price": 5.69,
+      "datetime": "2024-12-30 07:00"
+    },
+    {
+      "timestamp": 1735538400,
+      "price": 25.07,
+      "datetime": "2024-12-30 08:00"
+    },
+    {
+      "timestamp": 1735542000,
+      "price": 45.01,
+      "datetime": "2024-12-30 09:00"
+    },
+    {
+      "timestamp": 1735545600,
+      "price": 45.01,
+      "datetime": "2024-12-30 10:00"
+    },
+    {
+      "timestamp": 1735549200,
+      "price": 38.66,
+      "datetime": "2024-12-30 11:00"
+    },
+    {
+      "timestamp": 1735552800,
+      "price": 38.71,
+      "datetime": "2024-12-30 12:00"
+    },
+    {
+      "timestamp": 1735556400,
+      "price": 36.61,
+      "datetime": "2024-12-30 13:00"
+    },
+    {
+      "timestamp": 1735560000,
+      "price": 34.82,
+      "datetime": "2024-12-30 14:00"
+    },
+    {
+      "timestamp": 1735563600,
+      "price": 36.5,
+      "datetime": "2024-12-30 15:00"
+    },
+    {
+      "timestamp": 1735567200,
+      "price": 98.11,
+      "datetime": "2024-12-30 16:00"
+    },
+    {
+      "timestamp": 1735570800,
+      "price": 100.72,
+      "datetime": "2024-12-30 17:00"
+    },
+    {
+      "timestamp": 1735574400,
+      "price": 96.22,
+      "datetime": "2024-12-30 18:00"
+    },
+    {
+      "timestamp": 1735578000,
+      "price": 78.35,
+      "datetime": "2024-12-30 19:00"
+    },
+    {
+      "timestamp": 1735581600,
+      "price": 86.35,
+      "datetime": "2024-12-30 20:00"
+    },
+    {
+      "timestamp": 1735585200,
+      "price": 76.29,
+      "datetime": "2024-12-30 21:00"
+    },
+    {
+      "timestamp": 1735588800,
+      "price": 31.41,
+      "datetime": "2024-12-30 22:00"
+    },
+    {
+      "timestamp": 1735592400,
+      "price": 29.49,
+      "datetime": "2024-12-30 23:00"
+    },
+    {
+      "timestamp": 1735596000,
+      "price": 2.21,
+      "datetime": "2024-12-31 00:00"
+    },
+    {
+      "timestamp": 1735599600,
+      "price": 0.98,
+      "datetime": "2024-12-31 01:00"
+    },
+    {
+      "timestamp": 1735603200,
+      "price": 0.98,
+      "datetime": "2024-12-31 02:00"
+    },
+    {
+      "timestamp": 1735606800,
+      "price": 0.64,
+      "datetime": "2024-12-31 03:00"
+    },
+    {
+      "timestamp": 1735610400,
+      "price": 1.45,
+      "datetime": "2024-12-31 04:00"
+    },
+    {
+      "timestamp": 1735614000,
+      "price": 1.74,
+      "datetime": "2024-12-31 05:00"
+    },
+    {
+      "timestamp": 1735617600,
+      "price": 5.77,
+      "datetime": "2024-12-31 06:00"
+    },
+    {
+      "timestamp": 1735621200,
+      "price": 29.15,
+      "datetime": "2024-12-31 07:00"
+    },
+    {
+      "timestamp": 1735624800,
+      "price": 76.44,
+      "datetime": "2024-12-31 08:00"
+    },
+    {
+      "timestamp": 1735628400,
+      "price": 85.01,
+      "datetime": "2024-12-31 09:00"
+    },
+    {
+      "timestamp": 1735632000,
+      "price": 77.79,
+      "datetime": "2024-12-31 10:00"
+    },
+    {
+      "timestamp": 1735635600,
+      "price": 69.99,
+      "datetime": "2024-12-31 11:00"
+    },
+    {
+      "timestamp": 1735639200,
+      "price": 61.99,
+      "datetime": "2024-12-31 12:00"
+    },
+    {
+      "timestamp": 1735642800,
+      "price": 39.03,
+      "datetime": "2024-12-31 13:00"
+    },
+    {
+      "timestamp": 1735646400,
+      "price": 37.21,
+      "datetime": "2024-12-31 14:00"
+    },
+    {
+      "timestamp": 1735650000,
+      "price": 96.01,
+      "datetime": "2024-12-31 15:00"
+    },
+    {
+      "timestamp": 1735653600,
+      "price": 105.4,
+      "datetime": "2024-12-31 16:00"
+    },
+    {
+      "timestamp": 1735657200,
+      "price": 113.08,
+      "datetime": "2024-12-31 17:00"
+    },
+    {
+      "timestamp": 1735660800,
+      "price": 95.1,
+      "datetime": "2024-12-31 18:00"
+    },
+    {
+      "timestamp": 1735664400,
+      "price": 88.89,
+      "datetime": "2024-12-31 19:00"
+    },
+    {
+      "timestamp": 1735668000,
+      "price": 74.87,
+      "datetime": "2024-12-31 20:00"
+    },
+    {
+      "timestamp": 1735671600,
+      "price": 54.18,
+      "datetime": "2024-12-31 21:00"
+    },
+    {
+      "timestamp": 1735675200,
+      "price": 25.08,
+      "datetime": "2024-12-31 22:00"
+    },
+    {
+      "timestamp": 1735678800,
+      "price": 7.94,
+      "datetime": "2024-12-31 23:00"
+    },
+    {
+      "timestamp": 1735682400,
+      "price": 4.01,
+      "datetime": "2025-01-01 00:00"
+    },
+    {
+      "timestamp": 1735686000,
+      "price": 4.85,
+      "datetime": "2025-01-01 01:00"
+    }
+  ]
+}
