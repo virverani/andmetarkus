@@ -1,0 +1,3719 @@
+{
+  "data": [
+    {
+      "timestamp": 1682902800,
+      "price": 39.89,
+      "datetime": "2023-05-01 04:00"
+    },
+    {
+      "timestamp": 1682906400,
+      "price": 42.55,
+      "datetime": "2023-05-01 05:00"
+    },
+    {
+      "timestamp": 1682910000,
+      "price": 44.83,
+      "datetime": "2023-05-01 06:00"
+    },
+    {
+      "timestamp": 1682913600,
+      "price": 47.89,
+      "datetime": "2023-05-01 07:00"
+    },
+    {
+      "timestamp": 1682917200,
+      "price": 56.11,
+      "datetime": "2023-05-01 08:00"
+    },
+    {
+      "timestamp": 1682920800,
+      "price": 65.55,
+      "datetime": "2023-05-01 09:00"
+    },
+    {
+      "timestamp": 1682924400,
+      "price": 50.09,
+      "datetime": "2023-05-01 10:00"
+    },
+    {
+      "timestamp": 1682928000,
+      "price": 49.43,
+      "datetime": "2023-05-01 11:00"
+    },
+    {
+      "timestamp": 1682931600,
+      "price": 44.25,
+      "datetime": "2023-05-01 12:00"
+    },
+    {
+      "timestamp": 1682935200,
+      "price": 41.9,
+      "datetime": "2023-05-01 13:00"
+    },
+    {
+      "timestamp": 1682938800,
+      "price": 34.24,
+      "datetime": "2023-05-01 14:00"
+    },
+    {
+      "timestamp": 1682942400,
+      "price": 29.91,
+      "datetime": "2023-05-01 15:00"
+    },
+    {
+      "timestamp": 1682946000,
+      "price": 40.2,
+      "datetime": "2023-05-01 16:00"
+    },
+    {
+      "timestamp": 1682949600,
+      "price": 51.96,
+      "datetime": "2023-05-01 17:00"
+    },
+    {
+      "timestamp": 1682953200,
+      "price": 65.71,
+      "datetime": "2023-05-01 18:00"
+    },
+    {
+      "timestamp": 1682956800,
+      "price": 75.04,
+      "datetime": "2023-05-01 19:00"
+    },
+    {
+      "timestamp": 1682960400,
+      "price": 76.43,
+      "datetime": "2023-05-01 20:00"
+    },
+    {
+      "timestamp": 1682964000,
+      "price": 75.04,
+      "datetime": "2023-05-01 21:00"
+    },
+    {
+      "timestamp": 1682967600,
+      "price": 72.37,
+      "datetime": "2023-05-01 22:00"
+    },
+    {
+      "timestamp": 1682971200,
+      "price": 64.42,
+      "datetime": "2023-05-01 23:00"
+    },
+    {
+      "timestamp": 1682974800,
+      "price": 57.25,
+      "datetime": "2023-05-02 00:00"
+    },
+    {
+      "timestamp": 1682978400,
+      "price": 69.62,
+      "datetime": "2023-05-02 01:00"
+    },
+    {
+      "timestamp": 1682982000,
+      "price": 65.18,
+      "datetime": "2023-05-02 02:00"
+    },
+    {
+      "timestamp": 1682985600,
+      "price": 61.48,
+      "datetime": "2023-05-02 03:00"
+    },
+    {
+      "timestamp": 1682989200,
+      "price": 58.13,
+      "datetime": "2023-05-02 04:00"
+    },
+    {
+      "timestamp": 1682992800,
+      "price": 58.35,
+      "datetime": "2023-05-02 05:00"
+    },
+    {
+      "timestamp": 1682996400,
+      "price": 65.63,
+      "datetime": "2023-05-02 06:00"
+    },
+    {
+      "timestamp": 1683000000,
+      "price": 100.22,
+      "datetime": "2023-05-02 07:00"
+    },
+    {
+      "timestamp": 1683003600,
+      "price": 123.34,
+      "datetime": "2023-05-02 08:00"
+    },
+    {
+      "timestamp": 1683007200,
+      "price": 130.97,
+      "datetime": "2023-05-02 09:00"
+    },
+    {
+      "timestamp": 1683010800,
+      "price": 119.42,
+      "datetime": "2023-05-02 10:00"
+    },
+    {
+      "timestamp": 1683014400,
+      "price": 112.0,
+      "datetime": "2023-05-02 11:00"
+    },
+    {
+      "timestamp": 1683018000,
+      "price": 105.82,
+      "datetime": "2023-05-02 12:00"
+    },
+    {
+      "timestamp": 1683021600,
+      "price": 96.13,
+      "datetime": "2023-05-02 13:00"
+    },
+    {
+      "timestamp": 1683025200,
+      "price": 91.99,
+      "datetime": "2023-05-02 14:00"
+    },
+    {
+      "timestamp": 1683028800,
+      "price": 86.18,
+      "datetime": "2023-05-02 15:00"
+    },
+    {
+      "timestamp": 1683032400,
+      "price": 80.36,
+      "datetime": "2023-05-02 16:00"
+    },
+    {
+      "timestamp": 1683036000,
+      "price": 84.83,
+      "datetime": "2023-05-02 17:00"
+    },
+    {
+      "timestamp": 1683039600,
+      "price": 92.17,
+      "datetime": "2023-05-02 18:00"
+    },
+    {
+      "timestamp": 1683043200,
+      "price": 106.71,
+      "datetime": "2023-05-02 19:00"
+    },
+    {
+      "timestamp": 1683046800,
+      "price": 126.88,
+      "datetime": "2023-05-02 20:00"
+    },
+    {
+      "timestamp": 1683050400,
+      "price": 139.43,
+      "datetime": "2023-05-02 21:00"
+    },
+    {
+      "timestamp": 1683054000,
+      "price": 118.38,
+      "datetime": "2023-05-02 22:00"
+    },
+    {
+      "timestamp": 1683057600,
+      "price": 92.0,
+      "datetime": "2023-05-02 23:00"
+    },
+    {
+      "timestamp": 1683061200,
+      "price": 80.6,
+      "datetime": "2023-05-03 00:00"
+    },
+    {
+      "timestamp": 1683064800,
+      "price": 10.61,
+      "datetime": "2023-05-03 01:00"
+    },
+    {
+      "timestamp": 1683068400,
+      "price": 7.48,
+      "datetime": "2023-05-03 02:00"
+    },
+    {
+      "timestamp": 1683072000,
+      "price": 9.99,
+      "datetime": "2023-05-03 03:00"
+    },
+    {
+      "timestamp": 1683075600,
+      "price": 17.35,
+      "datetime": "2023-05-03 04:00"
+    },
+    {
+      "timestamp": 1683079200,
+      "price": 29.93,
+      "datetime": "2023-05-03 05:00"
+    },
+    {
+      "timestamp": 1683082800,
+      "price": 91.09,
+      "datetime": "2023-05-03 06:00"
+    },
+    {
+      "timestamp": 1683086400,
+      "price": 91.1,
+      "datetime": "2023-05-03 07:00"
+    },
+    {
+      "timestamp": 1683090000,
+      "price": 132.05,
+      "datetime": "2023-05-03 08:00"
+    },
+    {
+      "timestamp": 1683093600,
+      "price": 125.1,
+      "datetime": "2023-05-03 09:00"
+    },
+    {
+      "timestamp": 1683097200,
+      "price": 110.1,
+      "datetime": "2023-05-03 10:00"
+    },
+    {
+      "timestamp": 1683100800,
+      "price": 91.1,
+      "datetime": "2023-05-03 11:00"
+    },
+    {
+      "timestamp": 1683104400,
+      "price": 84.16,
+      "datetime": "2023-05-03 12:00"
+    },
+    {
+      "timestamp": 1683108000,
+      "price": 77.6,
+      "datetime": "2023-05-03 13:00"
+    },
+    {
+      "timestamp": 1683111600,
+      "price": 77.85,
+      "datetime": "2023-05-03 14:00"
+    },
+    {
+      "timestamp": 1683115200,
+      "price": 72.48,
+      "datetime": "2023-05-03 15:00"
+    },
+    {
+      "timestamp": 1683118800,
+      "price": 72.07,
+      "datetime": "2023-05-03 16:00"
+    },
+    {
+      "timestamp": 1683122400,
+      "price": 82.28,
+      "datetime": "2023-05-03 17:00"
+    },
+    {
+      "timestamp": 1683126000,
+      "price": 97.17,
+      "datetime": "2023-05-03 18:00"
+    },
+    {
+      "timestamp": 1683129600,
+      "price": 121.12,
+      "datetime": "2023-05-03 19:00"
+    },
+    {
+      "timestamp": 1683133200,
+      "price": 136.72,
+      "datetime": "2023-05-03 20:00"
+    },
+    {
+      "timestamp": 1683136800,
+      "price": 167.46,
+      "datetime": "2023-05-03 21:00"
+    },
+    {
+      "timestamp": 1683140400,
+      "price": 91.1,
+      "datetime": "2023-05-03 22:00"
+    },
+    {
+      "timestamp": 1683144000,
+      "price": 91.1,
+      "datetime": "2023-05-03 23:00"
+    },
+    {
+      "timestamp": 1683147600,
+      "price": 88.21,
+      "datetime": "2023-05-04 00:00"
+    },
+    {
+      "timestamp": 1683151200,
+      "price": 88.39,
+      "datetime": "2023-05-04 01:00"
+    },
+    {
+      "timestamp": 1683154800,
+      "price": 83.39,
+      "datetime": "2023-05-04 02:00"
+    },
+    {
+      "timestamp": 1683158400,
+      "price": 91.9,
+      "datetime": "2023-05-04 03:00"
+    },
+    {
+      "timestamp": 1683162000,
+      "price": 92.59,
+      "datetime": "2023-05-04 04:00"
+    },
+    {
+      "timestamp": 1683165600,
+      "price": 92.59,
+      "datetime": "2023-05-04 05:00"
+    },
+    {
+      "timestamp": 1683169200,
+      "price": 92.6,
+      "datetime": "2023-05-04 06:00"
+    },
+    {
+      "timestamp": 1683172800,
+      "price": 122.0,
+      "datetime": "2023-05-04 07:00"
+    },
+    {
+      "timestamp": 1683176400,
+      "price": 124.85,
+      "datetime": "2023-05-04 08:00"
+    },
+    {
+      "timestamp": 1683180000,
+      "price": 117.3,
+      "datetime": "2023-05-04 09:00"
+    },
+    {
+      "timestamp": 1683183600,
+      "price": 104.42,
+      "datetime": "2023-05-04 10:00"
+    },
+    {
+      "timestamp": 1683187200,
+      "price": 90.0,
+      "datetime": "2023-05-04 11:00"
+    },
+    {
+      "timestamp": 1683190800,
+      "price": 79.6,
+      "datetime": "2023-05-04 12:00"
+    },
+    {
+      "timestamp": 1683194400,
+      "price": 71.79,
+      "datetime": "2023-05-04 13:00"
+    },
+    {
+      "timestamp": 1683198000,
+      "price": 62.14,
+      "datetime": "2023-05-04 14:00"
+    },
+    {
+      "timestamp": 1683201600,
+      "price": 58.57,
+      "datetime": "2023-05-04 15:00"
+    },
+    {
+      "timestamp": 1683205200,
+      "price": 66.89,
+      "datetime": "2023-05-04 16:00"
+    },
+    {
+      "timestamp": 1683208800,
+      "price": 79.02,
+      "datetime": "2023-05-04 17:00"
+    },
+    {
+      "timestamp": 1683212400,
+      "price": 98.99,
+      "datetime": "2023-05-04 18:00"
+    },
+    {
+      "timestamp": 1683216000,
+      "price": 111.69,
+      "datetime": "2023-05-04 19:00"
+    },
+    {
+      "timestamp": 1683219600,
+      "price": 118.17,
+      "datetime": "2023-05-04 20:00"
+    },
+    {
+      "timestamp": 1683223200,
+      "price": 116.99,
+      "datetime": "2023-05-04 21:00"
+    },
+    {
+      "timestamp": 1683226800,
+      "price": 110.7,
+      "datetime": "2023-05-04 22:00"
+    },
+    {
+      "timestamp": 1683230400,
+      "price": 101.89,
+      "datetime": "2023-05-04 23:00"
+    },
+    {
+      "timestamp": 1683234000,
+      "price": 89.56,
+      "datetime": "2023-05-05 00:00"
+    },
+    {
+      "timestamp": 1683237600,
+      "price": 81.89,
+      "datetime": "2023-05-05 01:00"
+    },
+    {
+      "timestamp": 1683241200,
+      "price": 77.05,
+      "datetime": "2023-05-05 02:00"
+    },
+    {
+      "timestamp": 1683244800,
+      "price": 76.05,
+      "datetime": "2023-05-05 03:00"
+    },
+    {
+      "timestamp": 1683248400,
+      "price": 76.97,
+      "datetime": "2023-05-05 04:00"
+    },
+    {
+      "timestamp": 1683252000,
+      "price": 76.32,
+      "datetime": "2023-05-05 05:00"
+    },
+    {
+      "timestamp": 1683255600,
+      "price": 85.42,
+      "datetime": "2023-05-05 06:00"
+    },
+    {
+      "timestamp": 1683259200,
+      "price": 94.02,
+      "datetime": "2023-05-05 07:00"
+    },
+    {
+      "timestamp": 1683262800,
+      "price": 101.94,
+      "datetime": "2023-05-05 08:00"
+    },
+    {
+      "timestamp": 1683266400,
+      "price": 96.01,
+      "datetime": "2023-05-05 09:00"
+    },
+    {
+      "timestamp": 1683270000,
+      "price": 90.65,
+      "datetime": "2023-05-05 10:00"
+    },
+    {
+      "timestamp": 1683273600,
+      "price": 87.95,
+      "datetime": "2023-05-05 11:00"
+    },
+    {
+      "timestamp": 1683277200,
+      "price": 82.06,
+      "datetime": "2023-05-05 12:00"
+    },
+    {
+      "timestamp": 1683280800,
+      "price": 77.58,
+      "datetime": "2023-05-05 13:00"
+    },
+    {
+      "timestamp": 1683284400,
+      "price": 76.74,
+      "datetime": "2023-05-05 14:00"
+    },
+    {
+      "timestamp": 1683288000,
+      "price": 77.01,
+      "datetime": "2023-05-05 15:00"
+    },
+    {
+      "timestamp": 1683291600,
+      "price": 79.13,
+      "datetime": "2023-05-05 16:00"
+    },
+    {
+      "timestamp": 1683295200,
+      "price": 84.4,
+      "datetime": "2023-05-05 17:00"
+    },
+    {
+      "timestamp": 1683298800,
+      "price": 90.59,
+      "datetime": "2023-05-05 18:00"
+    },
+    {
+      "timestamp": 1683302400,
+      "price": 90.6,
+      "datetime": "2023-05-05 19:00"
+    },
+    {
+      "timestamp": 1683306000,
+      "price": 90.6,
+      "datetime": "2023-05-05 20:00"
+    },
+    {
+      "timestamp": 1683309600,
+      "price": 114.97,
+      "datetime": "2023-05-05 21:00"
+    },
+    {
+      "timestamp": 1683313200,
+      "price": 90.6,
+      "datetime": "2023-05-05 22:00"
+    },
+    {
+      "timestamp": 1683316800,
+      "price": 78.12,
+      "datetime": "2023-05-05 23:00"
+    },
+    {
+      "timestamp": 1683320400,
+      "price": 72.65,
+      "datetime": "2023-05-06 00:00"
+    },
+    {
+      "timestamp": 1683324000,
+      "price": 67.99,
+      "datetime": "2023-05-06 01:00"
+    },
+    {
+      "timestamp": 1683327600,
+      "price": 63.89,
+      "datetime": "2023-05-06 02:00"
+    },
+    {
+      "timestamp": 1683331200,
+      "price": 62.91,
+      "datetime": "2023-05-06 03:00"
+    },
+    {
+      "timestamp": 1683334800,
+      "price": 64.84,
+      "datetime": "2023-05-06 04:00"
+    },
+    {
+      "timestamp": 1683338400,
+      "price": 65.61,
+      "datetime": "2023-05-06 05:00"
+    },
+    {
+      "timestamp": 1683342000,
+      "price": 69.35,
+      "datetime": "2023-05-06 06:00"
+    },
+    {
+      "timestamp": 1683345600,
+      "price": 90.39,
+      "datetime": "2023-05-06 07:00"
+    },
+    {
+      "timestamp": 1683349200,
+      "price": 77.19,
+      "datetime": "2023-05-06 08:00"
+    },
+    {
+      "timestamp": 1683352800,
+      "price": 84.6,
+      "datetime": "2023-05-06 09:00"
+    },
+    {
+      "timestamp": 1683356400,
+      "price": 79.34,
+      "datetime": "2023-05-06 10:00"
+    },
+    {
+      "timestamp": 1683360000,
+      "price": 77.79,
+      "datetime": "2023-05-06 11:00"
+    },
+    {
+      "timestamp": 1683363600,
+      "price": 72.63,
+      "datetime": "2023-05-06 12:00"
+    },
+    {
+      "timestamp": 1683367200,
+      "price": 70.31,
+      "datetime": "2023-05-06 13:00"
+    },
+    {
+      "timestamp": 1683370800,
+      "price": 55.76,
+      "datetime": "2023-05-06 14:00"
+    },
+    {
+      "timestamp": 1683374400,
+      "price": 50.0,
+      "datetime": "2023-05-06 15:00"
+    },
+    {
+      "timestamp": 1683378000,
+      "price": 63.16,
+      "datetime": "2023-05-06 16:00"
+    },
+    {
+      "timestamp": 1683381600,
+      "price": 72.85,
+      "datetime": "2023-05-06 17:00"
+    },
+    {
+      "timestamp": 1683385200,
+      "price": 77.96,
+      "datetime": "2023-05-06 18:00"
+    },
+    {
+      "timestamp": 1683388800,
+      "price": 81.59,
+      "datetime": "2023-05-06 19:00"
+    },
+    {
+      "timestamp": 1683392400,
+      "price": 90.39,
+      "datetime": "2023-05-06 20:00"
+    },
+    {
+      "timestamp": 1683396000,
+      "price": 90.39,
+      "datetime": "2023-05-06 21:00"
+    },
+    {
+      "timestamp": 1683399600,
+      "price": 78.47,
+      "datetime": "2023-05-06 22:00"
+    },
+    {
+      "timestamp": 1683403200,
+      "price": 78.38,
+      "datetime": "2023-05-06 23:00"
+    },
+    {
+      "timestamp": 1683406800,
+      "price": 73.15,
+      "datetime": "2023-05-07 00:00"
+    },
+    {
+      "timestamp": 1683410400,
+      "price": 61.35,
+      "datetime": "2023-05-07 01:00"
+    },
+    {
+      "timestamp": 1683414000,
+      "price": 61.78,
+      "datetime": "2023-05-07 02:00"
+    },
+    {
+      "timestamp": 1683417600,
+      "price": 61.67,
+      "datetime": "2023-05-07 03:00"
+    },
+    {
+      "timestamp": 1683421200,
+      "price": 62.05,
+      "datetime": "2023-05-07 04:00"
+    },
+    {
+      "timestamp": 1683424800,
+      "price": 63.68,
+      "datetime": "2023-05-07 05:00"
+    },
+    {
+      "timestamp": 1683428400,
+      "price": 64.52,
+      "datetime": "2023-05-07 06:00"
+    },
+    {
+      "timestamp": 1683432000,
+      "price": 66.01,
+      "datetime": "2023-05-07 07:00"
+    },
+    {
+      "timestamp": 1683435600,
+      "price": 78.41,
+      "datetime": "2023-05-07 08:00"
+    },
+    {
+      "timestamp": 1683439200,
+      "price": 75.87,
+      "datetime": "2023-05-07 09:00"
+    },
+    {
+      "timestamp": 1683442800,
+      "price": 67.6,
+      "datetime": "2023-05-07 10:00"
+    },
+    {
+      "timestamp": 1683446400,
+      "price": 37.38,
+      "datetime": "2023-05-07 11:00"
+    },
+    {
+      "timestamp": 1683450000,
+      "price": 30.46,
+      "datetime": "2023-05-07 12:00"
+    },
+    {
+      "timestamp": 1683453600,
+      "price": 39.28,
+      "datetime": "2023-05-07 13:00"
+    },
+    {
+      "timestamp": 1683457200,
+      "price": 35.06,
+      "datetime": "2023-05-07 14:00"
+    },
+    {
+      "timestamp": 1683460800,
+      "price": 30.66,
+      "datetime": "2023-05-07 15:00"
+    },
+    {
+      "timestamp": 1683464400,
+      "price": 30.07,
+      "datetime": "2023-05-07 16:00"
+    },
+    {
+      "timestamp": 1683468000,
+      "price": 56.62,
+      "datetime": "2023-05-07 17:00"
+    },
+    {
+      "timestamp": 1683471600,
+      "price": 68.89,
+      "datetime": "2023-05-07 18:00"
+    },
+    {
+      "timestamp": 1683475200,
+      "price": 72.16,
+      "datetime": "2023-05-07 19:00"
+    },
+    {
+      "timestamp": 1683478800,
+      "price": 90.5,
+      "datetime": "2023-05-07 20:00"
+    },
+    {
+      "timestamp": 1683482400,
+      "price": 112.69,
+      "datetime": "2023-05-07 21:00"
+    },
+    {
+      "timestamp": 1683486000,
+      "price": 66.01,
+      "datetime": "2023-05-07 22:00"
+    },
+    {
+      "timestamp": 1683489600,
+      "price": 66.75,
+      "datetime": "2023-05-07 23:00"
+    },
+    {
+      "timestamp": 1683493200,
+      "price": 61.65,
+      "datetime": "2023-05-08 00:00"
+    },
+    {
+      "timestamp": 1683496800,
+      "price": 56.26,
+      "datetime": "2023-05-08 01:00"
+    },
+    {
+      "timestamp": 1683500400,
+      "price": 55.11,
+      "datetime": "2023-05-08 02:00"
+    },
+    {
+      "timestamp": 1683504000,
+      "price": 56.68,
+      "datetime": "2023-05-08 03:00"
+    },
+    {
+      "timestamp": 1683507600,
+      "price": 59.45,
+      "datetime": "2023-05-08 04:00"
+    },
+    {
+      "timestamp": 1683511200,
+      "price": 62.89,
+      "datetime": "2023-05-08 05:00"
+    },
+    {
+      "timestamp": 1683514800,
+      "price": 90.03,
+      "datetime": "2023-05-08 06:00"
+    },
+    {
+      "timestamp": 1683518400,
+      "price": 101.62,
+      "datetime": "2023-05-08 07:00"
+    },
+    {
+      "timestamp": 1683522000,
+      "price": 113.52,
+      "datetime": "2023-05-08 08:00"
+    },
+    {
+      "timestamp": 1683525600,
+      "price": 107.53,
+      "datetime": "2023-05-08 09:00"
+    },
+    {
+      "timestamp": 1683529200,
+      "price": 96.91,
+      "datetime": "2023-05-08 10:00"
+    },
+    {
+      "timestamp": 1683532800,
+      "price": 89.63,
+      "datetime": "2023-05-08 11:00"
+    },
+    {
+      "timestamp": 1683536400,
+      "price": 79.68,
+      "datetime": "2023-05-08 12:00"
+    },
+    {
+      "timestamp": 1683540000,
+      "price": 75.06,
+      "datetime": "2023-05-08 13:00"
+    },
+    {
+      "timestamp": 1683543600,
+      "price": 69.48,
+      "datetime": "2023-05-08 14:00"
+    },
+    {
+      "timestamp": 1683547200,
+      "price": 62.9,
+      "datetime": "2023-05-08 15:00"
+    },
+    {
+      "timestamp": 1683550800,
+      "price": 60.21,
+      "datetime": "2023-05-08 16:00"
+    },
+    {
+      "timestamp": 1683554400,
+      "price": 84.01,
+      "datetime": "2023-05-08 17:00"
+    },
+    {
+      "timestamp": 1683558000,
+      "price": 97.05,
+      "datetime": "2023-05-08 18:00"
+    },
+    {
+      "timestamp": 1683561600,
+      "price": 90.5,
+      "datetime": "2023-05-08 19:00"
+    },
+    {
+      "timestamp": 1683565200,
+      "price": 134.03,
+      "datetime": "2023-05-08 20:00"
+    },
+    {
+      "timestamp": 1683568800,
+      "price": 113.96,
+      "datetime": "2023-05-08 21:00"
+    },
+    {
+      "timestamp": 1683572400,
+      "price": 120.39,
+      "datetime": "2023-05-08 22:00"
+    },
+    {
+      "timestamp": 1683576000,
+      "price": 80.07,
+      "datetime": "2023-05-08 23:00"
+    },
+    {
+      "timestamp": 1683579600,
+      "price": 40.09,
+      "datetime": "2023-05-09 00:00"
+    },
+    {
+      "timestamp": 1683583200,
+      "price": 90.5,
+      "datetime": "2023-05-09 01:00"
+    },
+    {
+      "timestamp": 1683586800,
+      "price": 46.3,
+      "datetime": "2023-05-09 02:00"
+    },
+    {
+      "timestamp": 1683590400,
+      "price": 13.46,
+      "datetime": "2023-05-09 03:00"
+    },
+    {
+      "timestamp": 1683594000,
+      "price": 20.61,
+      "datetime": "2023-05-09 04:00"
+    },
+    {
+      "timestamp": 1683597600,
+      "price": 85.25,
+      "datetime": "2023-05-09 05:00"
+    },
+    {
+      "timestamp": 1683601200,
+      "price": 90.5,
+      "datetime": "2023-05-09 06:00"
+    },
+    {
+      "timestamp": 1683604800,
+      "price": 111.58,
+      "datetime": "2023-05-09 07:00"
+    },
+    {
+      "timestamp": 1683608400,
+      "price": 90.5,
+      "datetime": "2023-05-09 08:00"
+    },
+    {
+      "timestamp": 1683612000,
+      "price": 90.49,
+      "datetime": "2023-05-09 09:00"
+    },
+    {
+      "timestamp": 1683615600,
+      "price": 47.11,
+      "datetime": "2023-05-09 10:00"
+    },
+    {
+      "timestamp": 1683619200,
+      "price": 33.41,
+      "datetime": "2023-05-09 11:00"
+    },
+    {
+      "timestamp": 1683622800,
+      "price": 28.89,
+      "datetime": "2023-05-09 12:00"
+    },
+    {
+      "timestamp": 1683626400,
+      "price": 25.06,
+      "datetime": "2023-05-09 13:00"
+    },
+    {
+      "timestamp": 1683630000,
+      "price": 15.17,
+      "datetime": "2023-05-09 14:00"
+    },
+    {
+      "timestamp": 1683633600,
+      "price": 9.99,
+      "datetime": "2023-05-09 15:00"
+    },
+    {
+      "timestamp": 1683637200,
+      "price": 49.4,
+      "datetime": "2023-05-09 16:00"
+    },
+    {
+      "timestamp": 1683640800,
+      "price": 84.44,
+      "datetime": "2023-05-09 17:00"
+    },
+    {
+      "timestamp": 1683644400,
+      "price": 100.06,
+      "datetime": "2023-05-09 18:00"
+    },
+    {
+      "timestamp": 1683648000,
+      "price": 115.7,
+      "datetime": "2023-05-09 19:00"
+    },
+    {
+      "timestamp": 1683651600,
+      "price": 90.5,
+      "datetime": "2023-05-09 20:00"
+    },
+    {
+      "timestamp": 1683655200,
+      "price": 90.5,
+      "datetime": "2023-05-09 21:00"
+    },
+    {
+      "timestamp": 1683658800,
+      "price": 90.49,
+      "datetime": "2023-05-09 22:00"
+    },
+    {
+      "timestamp": 1683662400,
+      "price": 90.49,
+      "datetime": "2023-05-09 23:00"
+    },
+    {
+      "timestamp": 1683666000,
+      "price": 40.04,
+      "datetime": "2023-05-10 00:00"
+    },
+    {
+      "timestamp": 1683669600,
+      "price": 83.4,
+      "datetime": "2023-05-10 01:00"
+    },
+    {
+      "timestamp": 1683673200,
+      "price": 5.21,
+      "datetime": "2023-05-10 02:00"
+    },
+    {
+      "timestamp": 1683676800,
+      "price": 5.39,
+      "datetime": "2023-05-10 03:00"
+    },
+    {
+      "timestamp": 1683680400,
+      "price": 38.69,
+      "datetime": "2023-05-10 04:00"
+    },
+    {
+      "timestamp": 1683684000,
+      "price": 83.4,
+      "datetime": "2023-05-10 05:00"
+    },
+    {
+      "timestamp": 1683687600,
+      "price": 89.75,
+      "datetime": "2023-05-10 06:00"
+    },
+    {
+      "timestamp": 1683691200,
+      "price": 106.73,
+      "datetime": "2023-05-10 07:00"
+    },
+    {
+      "timestamp": 1683694800,
+      "price": 118.04,
+      "datetime": "2023-05-10 08:00"
+    },
+    {
+      "timestamp": 1683698400,
+      "price": 83.39,
+      "datetime": "2023-05-10 09:00"
+    },
+    {
+      "timestamp": 1683702000,
+      "price": 30.25,
+      "datetime": "2023-05-10 10:00"
+    },
+    {
+      "timestamp": 1683705600,
+      "price": 22.05,
+      "datetime": "2023-05-10 11:00"
+    },
+    {
+      "timestamp": 1683709200,
+      "price": 3.99,
+      "datetime": "2023-05-10 12:00"
+    },
+    {
+      "timestamp": 1683712800,
+      "price": 3.1,
+      "datetime": "2023-05-10 13:00"
+    },
+    {
+      "timestamp": 1683716400,
+      "price": 2.41,
+      "datetime": "2023-05-10 14:00"
+    },
+    {
+      "timestamp": 1683720000,
+      "price": 1.56,
+      "datetime": "2023-05-10 15:00"
+    },
+    {
+      "timestamp": 1683723600,
+      "price": 49.09,
+      "datetime": "2023-05-10 16:00"
+    },
+    {
+      "timestamp": 1683727200,
+      "price": 83.4,
+      "datetime": "2023-05-10 17:00"
+    },
+    {
+      "timestamp": 1683730800,
+      "price": 103.35,
+      "datetime": "2023-05-10 18:00"
+    },
+    {
+      "timestamp": 1683734400,
+      "price": 109.46,
+      "datetime": "2023-05-10 19:00"
+    },
+    {
+      "timestamp": 1683738000,
+      "price": 107.72,
+      "datetime": "2023-05-10 20:00"
+    },
+    {
+      "timestamp": 1683741600,
+      "price": 107.61,
+      "datetime": "2023-05-10 21:00"
+    },
+    {
+      "timestamp": 1683745200,
+      "price": 109.46,
+      "datetime": "2023-05-10 22:00"
+    },
+    {
+      "timestamp": 1683748800,
+      "price": 83.4,
+      "datetime": "2023-05-10 23:00"
+    },
+    {
+      "timestamp": 1683752400,
+      "price": 30.1,
+      "datetime": "2023-05-11 00:00"
+    },
+    {
+      "timestamp": 1683756000,
+      "price": 4.07,
+      "datetime": "2023-05-11 01:00"
+    },
+    {
+      "timestamp": 1683759600,
+      "price": 4.05,
+      "datetime": "2023-05-11 02:00"
+    },
+    {
+      "timestamp": 1683763200,
+      "price": 4.05,
+      "datetime": "2023-05-11 03:00"
+    },
+    {
+      "timestamp": 1683766800,
+      "price": 4.08,
+      "datetime": "2023-05-11 04:00"
+    },
+    {
+      "timestamp": 1683770400,
+      "price": 84.19,
+      "datetime": "2023-05-11 05:00"
+    },
+    {
+      "timestamp": 1683774000,
+      "price": 101.96,
+      "datetime": "2023-05-11 06:00"
+    },
+    {
+      "timestamp": 1683777600,
+      "price": 119.61,
+      "datetime": "2023-05-11 07:00"
+    },
+    {
+      "timestamp": 1683781200,
+      "price": 138.36,
+      "datetime": "2023-05-11 08:00"
+    },
+    {
+      "timestamp": 1683784800,
+      "price": 84.19,
+      "datetime": "2023-05-11 09:00"
+    },
+    {
+      "timestamp": 1683788400,
+      "price": 44.96,
+      "datetime": "2023-05-11 10:00"
+    },
+    {
+      "timestamp": 1683792000,
+      "price": 37.96,
+      "datetime": "2023-05-11 11:00"
+    },
+    {
+      "timestamp": 1683795600,
+      "price": 29.18,
+      "datetime": "2023-05-11 12:00"
+    },
+    {
+      "timestamp": 1683799200,
+      "price": 28.29,
+      "datetime": "2023-05-11 13:00"
+    },
+    {
+      "timestamp": 1683802800,
+      "price": 28.12,
+      "datetime": "2023-05-11 14:00"
+    },
+    {
+      "timestamp": 1683806400,
+      "price": 15.06,
+      "datetime": "2023-05-11 15:00"
+    },
+    {
+      "timestamp": 1683810000,
+      "price": 21.58,
+      "datetime": "2023-05-11 16:00"
+    },
+    {
+      "timestamp": 1683813600,
+      "price": 26.97,
+      "datetime": "2023-05-11 17:00"
+    },
+    {
+      "timestamp": 1683817200,
+      "price": 85.88,
+      "datetime": "2023-05-11 18:00"
+    },
+    {
+      "timestamp": 1683820800,
+      "price": 119.74,
+      "datetime": "2023-05-11 19:00"
+    },
+    {
+      "timestamp": 1683824400,
+      "price": 154.69,
+      "datetime": "2023-05-11 20:00"
+    },
+    {
+      "timestamp": 1683828000,
+      "price": 150.7,
+      "datetime": "2023-05-11 21:00"
+    },
+    {
+      "timestamp": 1683831600,
+      "price": 122.12,
+      "datetime": "2023-05-11 22:00"
+    },
+    {
+      "timestamp": 1683835200,
+      "price": 113.99,
+      "datetime": "2023-05-11 23:00"
+    },
+    {
+      "timestamp": 1683838800,
+      "price": 84.19,
+      "datetime": "2023-05-12 00:00"
+    },
+    {
+      "timestamp": 1683842400,
+      "price": 85.73,
+      "datetime": "2023-05-12 01:00"
+    },
+    {
+      "timestamp": 1683846000,
+      "price": 85.72,
+      "datetime": "2023-05-12 02:00"
+    },
+    {
+      "timestamp": 1683849600,
+      "price": 85.74,
+      "datetime": "2023-05-12 03:00"
+    },
+    {
+      "timestamp": 1683853200,
+      "price": 85.72,
+      "datetime": "2023-05-12 04:00"
+    },
+    {
+      "timestamp": 1683856800,
+      "price": 85.76,
+      "datetime": "2023-05-12 05:00"
+    },
+    {
+      "timestamp": 1683860400,
+      "price": 98.83,
+      "datetime": "2023-05-12 06:00"
+    },
+    {
+      "timestamp": 1683864000,
+      "price": 85.75,
+      "datetime": "2023-05-12 07:00"
+    },
+    {
+      "timestamp": 1683867600,
+      "price": 84.9,
+      "datetime": "2023-05-12 08:00"
+    },
+    {
+      "timestamp": 1683871200,
+      "price": 96.5,
+      "datetime": "2023-05-12 09:00"
+    },
+    {
+      "timestamp": 1683874800,
+      "price": 84.32,
+      "datetime": "2023-05-12 10:00"
+    },
+    {
+      "timestamp": 1683878400,
+      "price": 82.48,
+      "datetime": "2023-05-12 11:00"
+    },
+    {
+      "timestamp": 1683882000,
+      "price": 64.58,
+      "datetime": "2023-05-12 12:00"
+    },
+    {
+      "timestamp": 1683885600,
+      "price": 52.87,
+      "datetime": "2023-05-12 13:00"
+    },
+    {
+      "timestamp": 1683889200,
+      "price": 44.17,
+      "datetime": "2023-05-12 14:00"
+    },
+    {
+      "timestamp": 1683892800,
+      "price": 37.58,
+      "datetime": "2023-05-12 15:00"
+    },
+    {
+      "timestamp": 1683896400,
+      "price": 37.23,
+      "datetime": "2023-05-12 16:00"
+    },
+    {
+      "timestamp": 1683900000,
+      "price": 38.07,
+      "datetime": "2023-05-12 17:00"
+    },
+    {
+      "timestamp": 1683903600,
+      "price": 49.57,
+      "datetime": "2023-05-12 18:00"
+    },
+    {
+      "timestamp": 1683907200,
+      "price": 119.7,
+      "datetime": "2023-05-12 19:00"
+    },
+    {
+      "timestamp": 1683910800,
+      "price": 128.21,
+      "datetime": "2023-05-12 20:00"
+    },
+    {
+      "timestamp": 1683914400,
+      "price": 129.95,
+      "datetime": "2023-05-12 21:00"
+    },
+    {
+      "timestamp": 1683918000,
+      "price": 123.84,
+      "datetime": "2023-05-12 22:00"
+    },
+    {
+      "timestamp": 1683921600,
+      "price": 85.79,
+      "datetime": "2023-05-12 23:00"
+    },
+    {
+      "timestamp": 1683925200,
+      "price": 85.74,
+      "datetime": "2023-05-13 00:00"
+    },
+    {
+      "timestamp": 1683928800,
+      "price": 85.3,
+      "datetime": "2023-05-13 01:00"
+    },
+    {
+      "timestamp": 1683932400,
+      "price": 85.3,
+      "datetime": "2023-05-13 02:00"
+    },
+    {
+      "timestamp": 1683936000,
+      "price": 85.3,
+      "datetime": "2023-05-13 03:00"
+    },
+    {
+      "timestamp": 1683939600,
+      "price": 85.3,
+      "datetime": "2023-05-13 04:00"
+    },
+    {
+      "timestamp": 1683943200,
+      "price": 85.3,
+      "datetime": "2023-05-13 05:00"
+    },
+    {
+      "timestamp": 1683946800,
+      "price": 85.3,
+      "datetime": "2023-05-13 06:00"
+    },
+    {
+      "timestamp": 1683950400,
+      "price": 85.29,
+      "datetime": "2023-05-13 07:00"
+    },
+    {
+      "timestamp": 1683954000,
+      "price": 22.97,
+      "datetime": "2023-05-13 08:00"
+    },
+    {
+      "timestamp": 1683957600,
+      "price": 24.29,
+      "datetime": "2023-05-13 09:00"
+    },
+    {
+      "timestamp": 1683961200,
+      "price": 24.17,
+      "datetime": "2023-05-13 10:00"
+    },
+    {
+      "timestamp": 1683964800,
+      "price": 22.55,
+      "datetime": "2023-05-13 11:00"
+    },
+    {
+      "timestamp": 1683968400,
+      "price": 19.6,
+      "datetime": "2023-05-13 12:00"
+    },
+    {
+      "timestamp": 1683972000,
+      "price": 15.43,
+      "datetime": "2023-05-13 13:00"
+    },
+    {
+      "timestamp": 1683975600,
+      "price": 5.65,
+      "datetime": "2023-05-13 14:00"
+    },
+    {
+      "timestamp": 1683979200,
+      "price": 5.06,
+      "datetime": "2023-05-13 15:00"
+    },
+    {
+      "timestamp": 1683982800,
+      "price": 6.17,
+      "datetime": "2023-05-13 16:00"
+    },
+    {
+      "timestamp": 1683986400,
+      "price": 19.04,
+      "datetime": "2023-05-13 17:00"
+    },
+    {
+      "timestamp": 1683990000,
+      "price": 75.41,
+      "datetime": "2023-05-13 18:00"
+    },
+    {
+      "timestamp": 1683993600,
+      "price": 84.68,
+      "datetime": "2023-05-13 19:00"
+    },
+    {
+      "timestamp": 1683997200,
+      "price": 108.45,
+      "datetime": "2023-05-13 20:00"
+    },
+    {
+      "timestamp": 1684000800,
+      "price": 116.46,
+      "datetime": "2023-05-13 21:00"
+    },
+    {
+      "timestamp": 1684004400,
+      "price": 113.48,
+      "datetime": "2023-05-13 22:00"
+    },
+    {
+      "timestamp": 1684008000,
+      "price": 109.56,
+      "datetime": "2023-05-13 23:00"
+    },
+    {
+      "timestamp": 1684011600,
+      "price": 85.3,
+      "datetime": "2023-05-14 00:00"
+    },
+    {
+      "timestamp": 1684015200,
+      "price": 85.29,
+      "datetime": "2023-05-14 01:00"
+    },
+    {
+      "timestamp": 1684018800,
+      "price": 85.29,
+      "datetime": "2023-05-14 02:00"
+    },
+    {
+      "timestamp": 1684022400,
+      "price": 85.29,
+      "datetime": "2023-05-14 03:00"
+    },
+    {
+      "timestamp": 1684026000,
+      "price": 85.29,
+      "datetime": "2023-05-14 04:00"
+    },
+    {
+      "timestamp": 1684029600,
+      "price": 85.29,
+      "datetime": "2023-05-14 05:00"
+    },
+    {
+      "timestamp": 1684033200,
+      "price": 85.29,
+      "datetime": "2023-05-14 06:00"
+    },
+    {
+      "timestamp": 1684036800,
+      "price": 7.53,
+      "datetime": "2023-05-14 07:00"
+    },
+    {
+      "timestamp": 1684040400,
+      "price": 8.68,
+      "datetime": "2023-05-14 08:00"
+    },
+    {
+      "timestamp": 1684044000,
+      "price": 13.77,
+      "datetime": "2023-05-14 09:00"
+    },
+    {
+      "timestamp": 1684047600,
+      "price": 15.62,
+      "datetime": "2023-05-14 10:00"
+    },
+    {
+      "timestamp": 1684051200,
+      "price": 12.12,
+      "datetime": "2023-05-14 11:00"
+    },
+    {
+      "timestamp": 1684054800,
+      "price": 9.29,
+      "datetime": "2023-05-14 12:00"
+    },
+    {
+      "timestamp": 1684058400,
+      "price": 5.77,
+      "datetime": "2023-05-14 13:00"
+    },
+    {
+      "timestamp": 1684062000,
+      "price": 1.85,
+      "datetime": "2023-05-14 14:00"
+    },
+    {
+      "timestamp": 1684065600,
+      "price": 0.16,
+      "datetime": "2023-05-14 15:00"
+    },
+    {
+      "timestamp": 1684069200,
+      "price": 1.78,
+      "datetime": "2023-05-14 16:00"
+    },
+    {
+      "timestamp": 1684072800,
+      "price": 5.19,
+      "datetime": "2023-05-14 17:00"
+    },
+    {
+      "timestamp": 1684076400,
+      "price": 10.34,
+      "datetime": "2023-05-14 18:00"
+    },
+    {
+      "timestamp": 1684080000,
+      "price": 85.29,
+      "datetime": "2023-05-14 19:00"
+    },
+    {
+      "timestamp": 1684083600,
+      "price": 85.29,
+      "datetime": "2023-05-14 20:00"
+    },
+    {
+      "timestamp": 1684087200,
+      "price": 126.13,
+      "datetime": "2023-05-14 21:00"
+    },
+    {
+      "timestamp": 1684090800,
+      "price": 126.62,
+      "datetime": "2023-05-14 22:00"
+    },
+    {
+      "timestamp": 1684094400,
+      "price": 118.42,
+      "datetime": "2023-05-14 23:00"
+    },
+    {
+      "timestamp": 1684098000,
+      "price": 85.3,
+      "datetime": "2023-05-15 00:00"
+    },
+    {
+      "timestamp": 1684101600,
+      "price": 85.59,
+      "datetime": "2023-05-15 01:00"
+    },
+    {
+      "timestamp": 1684105200,
+      "price": 85.59,
+      "datetime": "2023-05-15 02:00"
+    },
+    {
+      "timestamp": 1684108800,
+      "price": 85.59,
+      "datetime": "2023-05-15 03:00"
+    },
+    {
+      "timestamp": 1684112400,
+      "price": 85.59,
+      "datetime": "2023-05-15 04:00"
+    },
+    {
+      "timestamp": 1684116000,
+      "price": 85.59,
+      "datetime": "2023-05-15 05:00"
+    },
+    {
+      "timestamp": 1684119600,
+      "price": 122.51,
+      "datetime": "2023-05-15 06:00"
+    },
+    {
+      "timestamp": 1684123200,
+      "price": 85.6,
+      "datetime": "2023-05-15 07:00"
+    },
+    {
+      "timestamp": 1684126800,
+      "price": 92.26,
+      "datetime": "2023-05-15 08:00"
+    },
+    {
+      "timestamp": 1684130400,
+      "price": 94.13,
+      "datetime": "2023-05-15 09:00"
+    },
+    {
+      "timestamp": 1684134000,
+      "price": 85.6,
+      "datetime": "2023-05-15 10:00"
+    },
+    {
+      "timestamp": 1684137600,
+      "price": 22.74,
+      "datetime": "2023-05-15 11:00"
+    },
+    {
+      "timestamp": 1684141200,
+      "price": 20.99,
+      "datetime": "2023-05-15 12:00"
+    },
+    {
+      "timestamp": 1684144800,
+      "price": 14.94,
+      "datetime": "2023-05-15 13:00"
+    },
+    {
+      "timestamp": 1684148400,
+      "price": 11.62,
+      "datetime": "2023-05-15 14:00"
+    },
+    {
+      "timestamp": 1684152000,
+      "price": 8.95,
+      "datetime": "2023-05-15 15:00"
+    },
+    {
+      "timestamp": 1684155600,
+      "price": 11.92,
+      "datetime": "2023-05-15 16:00"
+    },
+    {
+      "timestamp": 1684159200,
+      "price": 14.26,
+      "datetime": "2023-05-15 17:00"
+    },
+    {
+      "timestamp": 1684162800,
+      "price": 17.39,
+      "datetime": "2023-05-15 18:00"
+    },
+    {
+      "timestamp": 1684166400,
+      "price": 85.6,
+      "datetime": "2023-05-15 19:00"
+    },
+    {
+      "timestamp": 1684170000,
+      "price": 85.6,
+      "datetime": "2023-05-15 20:00"
+    },
+    {
+      "timestamp": 1684173600,
+      "price": 161.49,
+      "datetime": "2023-05-15 21:00"
+    },
+    {
+      "timestamp": 1684177200,
+      "price": 124.07,
+      "datetime": "2023-05-15 22:00"
+    },
+    {
+      "timestamp": 1684180800,
+      "price": 85.6,
+      "datetime": "2023-05-15 23:00"
+    },
+    {
+      "timestamp": 1684184400,
+      "price": 85.59,
+      "datetime": "2023-05-16 00:00"
+    },
+    {
+      "timestamp": 1684188000,
+      "price": 75.59,
+      "datetime": "2023-05-16 01:00"
+    },
+    {
+      "timestamp": 1684191600,
+      "price": 49.34,
+      "datetime": "2023-05-16 02:00"
+    },
+    {
+      "timestamp": 1684195200,
+      "price": 49.53,
+      "datetime": "2023-05-16 03:00"
+    },
+    {
+      "timestamp": 1684198800,
+      "price": 49.68,
+      "datetime": "2023-05-16 04:00"
+    },
+    {
+      "timestamp": 1684202400,
+      "price": 64.32,
+      "datetime": "2023-05-16 05:00"
+    },
+    {
+      "timestamp": 1684206000,
+      "price": 69.15,
+      "datetime": "2023-05-16 06:00"
+    },
+    {
+      "timestamp": 1684209600,
+      "price": 116.64,
+      "datetime": "2023-05-16 07:00"
+    },
+    {
+      "timestamp": 1684213200,
+      "price": 118.91,
+      "datetime": "2023-05-16 08:00"
+    },
+    {
+      "timestamp": 1684216800,
+      "price": 119.54,
+      "datetime": "2023-05-16 09:00"
+    },
+    {
+      "timestamp": 1684220400,
+      "price": 103.32,
+      "datetime": "2023-05-16 10:00"
+    },
+    {
+      "timestamp": 1684224000,
+      "price": 81.09,
+      "datetime": "2023-05-16 11:00"
+    },
+    {
+      "timestamp": 1684227600,
+      "price": 67.1,
+      "datetime": "2023-05-16 12:00"
+    },
+    {
+      "timestamp": 1684231200,
+      "price": 98.81,
+      "datetime": "2023-05-16 13:00"
+    },
+    {
+      "timestamp": 1684234800,
+      "price": 85.59,
+      "datetime": "2023-05-16 14:00"
+    },
+    {
+      "timestamp": 1684238400,
+      "price": 22.27,
+      "datetime": "2023-05-16 15:00"
+    },
+    {
+      "timestamp": 1684242000,
+      "price": 12.29,
+      "datetime": "2023-05-16 16:00"
+    },
+    {
+      "timestamp": 1684245600,
+      "price": 85.59,
+      "datetime": "2023-05-16 17:00"
+    },
+    {
+      "timestamp": 1684249200,
+      "price": 85.6,
+      "datetime": "2023-05-16 18:00"
+    },
+    {
+      "timestamp": 1684252800,
+      "price": 85.59,
+      "datetime": "2023-05-16 19:00"
+    },
+    {
+      "timestamp": 1684256400,
+      "price": 114.65,
+      "datetime": "2023-05-16 20:00"
+    },
+    {
+      "timestamp": 1684260000,
+      "price": 165.28,
+      "datetime": "2023-05-16 21:00"
+    },
+    {
+      "timestamp": 1684263600,
+      "price": 85.6,
+      "datetime": "2023-05-16 22:00"
+    },
+    {
+      "timestamp": 1684267200,
+      "price": 85.6,
+      "datetime": "2023-05-16 23:00"
+    },
+    {
+      "timestamp": 1684270800,
+      "price": 50.04,
+      "datetime": "2023-05-17 00:00"
+    },
+    {
+      "timestamp": 1684274400,
+      "price": 77.48,
+      "datetime": "2023-05-17 01:00"
+    },
+    {
+      "timestamp": 1684278000,
+      "price": 70.84,
+      "datetime": "2023-05-17 02:00"
+    },
+    {
+      "timestamp": 1684281600,
+      "price": 51.44,
+      "datetime": "2023-05-17 03:00"
+    },
+    {
+      "timestamp": 1684285200,
+      "price": 67.8,
+      "datetime": "2023-05-17 04:00"
+    },
+    {
+      "timestamp": 1684288800,
+      "price": 55.6,
+      "datetime": "2023-05-17 05:00"
+    },
+    {
+      "timestamp": 1684292400,
+      "price": 79.83,
+      "datetime": "2023-05-17 06:00"
+    },
+    {
+      "timestamp": 1684296000,
+      "price": 114.68,
+      "datetime": "2023-05-17 07:00"
+    },
+    {
+      "timestamp": 1684299600,
+      "price": 131.84,
+      "datetime": "2023-05-17 08:00"
+    },
+    {
+      "timestamp": 1684303200,
+      "price": 123.3,
+      "datetime": "2023-05-17 09:00"
+    },
+    {
+      "timestamp": 1684306800,
+      "price": 49.25,
+      "datetime": "2023-05-17 10:00"
+    },
+    {
+      "timestamp": 1684310400,
+      "price": 2.96,
+      "datetime": "2023-05-17 11:00"
+    },
+    {
+      "timestamp": 1684314000,
+      "price": 1.63,
+      "datetime": "2023-05-17 12:00"
+    },
+    {
+      "timestamp": 1684317600,
+      "price": 0.48,
+      "datetime": "2023-05-17 13:00"
+    },
+    {
+      "timestamp": 1684321200,
+      "price": 0.05,
+      "datetime": "2023-05-17 14:00"
+    },
+    {
+      "timestamp": 1684324800,
+      "price": 0.08,
+      "datetime": "2023-05-17 15:00"
+    },
+    {
+      "timestamp": 1684328400,
+      "price": 31.24,
+      "datetime": "2023-05-17 16:00"
+    },
+    {
+      "timestamp": 1684332000,
+      "price": 51.44,
+      "datetime": "2023-05-17 17:00"
+    },
+    {
+      "timestamp": 1684335600,
+      "price": 79.09,
+      "datetime": "2023-05-17 18:00"
+    },
+    {
+      "timestamp": 1684339200,
+      "price": 102.86,
+      "datetime": "2023-05-17 19:00"
+    },
+    {
+      "timestamp": 1684342800,
+      "price": 125.53,
+      "datetime": "2023-05-17 20:00"
+    },
+    {
+      "timestamp": 1684346400,
+      "price": 142.73,
+      "datetime": "2023-05-17 21:00"
+    },
+    {
+      "timestamp": 1684350000,
+      "price": 127.04,
+      "datetime": "2023-05-17 22:00"
+    },
+    {
+      "timestamp": 1684353600,
+      "price": 111.0,
+      "datetime": "2023-05-17 23:00"
+    },
+    {
+      "timestamp": 1684357200,
+      "price": 84.7,
+      "datetime": "2023-05-18 00:00"
+    },
+    {
+      "timestamp": 1684360800,
+      "price": 85.49,
+      "datetime": "2023-05-18 01:00"
+    },
+    {
+      "timestamp": 1684364400,
+      "price": 85.49,
+      "datetime": "2023-05-18 02:00"
+    },
+    {
+      "timestamp": 1684368000,
+      "price": 85.49,
+      "datetime": "2023-05-18 03:00"
+    },
+    {
+      "timestamp": 1684371600,
+      "price": 85.49,
+      "datetime": "2023-05-18 04:00"
+    },
+    {
+      "timestamp": 1684375200,
+      "price": 85.49,
+      "datetime": "2023-05-18 05:00"
+    },
+    {
+      "timestamp": 1684378800,
+      "price": 98.06,
+      "datetime": "2023-05-18 06:00"
+    },
+    {
+      "timestamp": 1684382400,
+      "price": 106.39,
+      "datetime": "2023-05-18 07:00"
+    },
+    {
+      "timestamp": 1684386000,
+      "price": 137.95,
+      "datetime": "2023-05-18 08:00"
+    },
+    {
+      "timestamp": 1684389600,
+      "price": 85.49,
+      "datetime": "2023-05-18 09:00"
+    },
+    {
+      "timestamp": 1684393200,
+      "price": 0.21,
+      "datetime": "2023-05-18 10:00"
+    },
+    {
+      "timestamp": 1684396800,
+      "price": 1.72,
+      "datetime": "2023-05-18 11:00"
+    },
+    {
+      "timestamp": 1684400400,
+      "price": 2.28,
+      "datetime": "2023-05-18 12:00"
+    },
+    {
+      "timestamp": 1684404000,
+      "price": 2.8,
+      "datetime": "2023-05-18 13:00"
+    },
+    {
+      "timestamp": 1684407600,
+      "price": 3.21,
+      "datetime": "2023-05-18 14:00"
+    },
+    {
+      "timestamp": 1684411200,
+      "price": 4.14,
+      "datetime": "2023-05-18 15:00"
+    },
+    {
+      "timestamp": 1684414800,
+      "price": 4.63,
+      "datetime": "2023-05-18 16:00"
+    },
+    {
+      "timestamp": 1684418400,
+      "price": 5.82,
+      "datetime": "2023-05-18 17:00"
+    },
+    {
+      "timestamp": 1684422000,
+      "price": 84.84,
+      "datetime": "2023-05-18 18:00"
+    },
+    {
+      "timestamp": 1684425600,
+      "price": 115.01,
+      "datetime": "2023-05-18 19:00"
+    },
+    {
+      "timestamp": 1684429200,
+      "price": 120.06,
+      "datetime": "2023-05-18 20:00"
+    },
+    {
+      "timestamp": 1684432800,
+      "price": 150.17,
+      "datetime": "2023-05-18 21:00"
+    },
+    {
+      "timestamp": 1684436400,
+      "price": 120.07,
+      "datetime": "2023-05-18 22:00"
+    },
+    {
+      "timestamp": 1684440000,
+      "price": 109.61,
+      "datetime": "2023-05-18 23:00"
+    },
+    {
+      "timestamp": 1684443600,
+      "price": 98.76,
+      "datetime": "2023-05-19 00:00"
+    },
+    {
+      "timestamp": 1684447200,
+      "price": 85.4,
+      "datetime": "2023-05-19 01:00"
+    },
+    {
+      "timestamp": 1684450800,
+      "price": 83.2,
+      "datetime": "2023-05-19 02:00"
+    },
+    {
+      "timestamp": 1684454400,
+      "price": 80.23,
+      "datetime": "2023-05-19 03:00"
+    },
+    {
+      "timestamp": 1684458000,
+      "price": 77.03,
+      "datetime": "2023-05-19 04:00"
+    },
+    {
+      "timestamp": 1684461600,
+      "price": 83.86,
+      "datetime": "2023-05-19 05:00"
+    },
+    {
+      "timestamp": 1684465200,
+      "price": 98.89,
+      "datetime": "2023-05-19 06:00"
+    },
+    {
+      "timestamp": 1684468800,
+      "price": 110.36,
+      "datetime": "2023-05-19 07:00"
+    },
+    {
+      "timestamp": 1684472400,
+      "price": 102.8,
+      "datetime": "2023-05-19 08:00"
+    },
+    {
+      "timestamp": 1684476000,
+      "price": 101.93,
+      "datetime": "2023-05-19 09:00"
+    },
+    {
+      "timestamp": 1684479600,
+      "price": 88.05,
+      "datetime": "2023-05-19 10:00"
+    },
+    {
+      "timestamp": 1684483200,
+      "price": 39.91,
+      "datetime": "2023-05-19 11:00"
+    },
+    {
+      "timestamp": 1684486800,
+      "price": 15.9,
+      "datetime": "2023-05-19 12:00"
+    },
+    {
+      "timestamp": 1684490400,
+      "price": 9.99,
+      "datetime": "2023-05-19 13:00"
+    },
+    {
+      "timestamp": 1684494000,
+      "price": 7.28,
+      "datetime": "2023-05-19 14:00"
+    },
+    {
+      "timestamp": 1684497600,
+      "price": 4.76,
+      "datetime": "2023-05-19 15:00"
+    },
+    {
+      "timestamp": 1684501200,
+      "price": 4.64,
+      "datetime": "2023-05-19 16:00"
+    },
+    {
+      "timestamp": 1684504800,
+      "price": 6.01,
+      "datetime": "2023-05-19 17:00"
+    },
+    {
+      "timestamp": 1684508400,
+      "price": 86.65,
+      "datetime": "2023-05-19 18:00"
+    },
+    {
+      "timestamp": 1684512000,
+      "price": 115.18,
+      "datetime": "2023-05-19 19:00"
+    },
+    {
+      "timestamp": 1684515600,
+      "price": 141.72,
+      "datetime": "2023-05-19 20:00"
+    },
+    {
+      "timestamp": 1684519200,
+      "price": 115.93,
+      "datetime": "2023-05-19 21:00"
+    },
+    {
+      "timestamp": 1684522800,
+      "price": 105.02,
+      "datetime": "2023-05-19 22:00"
+    },
+    {
+      "timestamp": 1684526400,
+      "price": 99.79,
+      "datetime": "2023-05-19 23:00"
+    },
+    {
+      "timestamp": 1684530000,
+      "price": 85.78,
+      "datetime": "2023-05-20 00:00"
+    },
+    {
+      "timestamp": 1684533600,
+      "price": 78.74,
+      "datetime": "2023-05-20 01:00"
+    },
+    {
+      "timestamp": 1684537200,
+      "price": 74.0,
+      "datetime": "2023-05-20 02:00"
+    },
+    {
+      "timestamp": 1684540800,
+      "price": 68.08,
+      "datetime": "2023-05-20 03:00"
+    },
+    {
+      "timestamp": 1684544400,
+      "price": 65.75,
+      "datetime": "2023-05-20 04:00"
+    },
+    {
+      "timestamp": 1684548000,
+      "price": 64.98,
+      "datetime": "2023-05-20 05:00"
+    },
+    {
+      "timestamp": 1684551600,
+      "price": 65.48,
+      "datetime": "2023-05-20 06:00"
+    },
+    {
+      "timestamp": 1684555200,
+      "price": 62.08,
+      "datetime": "2023-05-20 07:00"
+    },
+    {
+      "timestamp": 1684558800,
+      "price": 4.37,
+      "datetime": "2023-05-20 08:00"
+    },
+    {
+      "timestamp": 1684562400,
+      "price": 4.93,
+      "datetime": "2023-05-20 09:00"
+    },
+    {
+      "timestamp": 1684566000,
+      "price": 4.95,
+      "datetime": "2023-05-20 10:00"
+    },
+    {
+      "timestamp": 1684569600,
+      "price": 4.33,
+      "datetime": "2023-05-20 11:00"
+    },
+    {
+      "timestamp": 1684573200,
+      "price": 0.38,
+      "datetime": "2023-05-20 12:00"
+    },
+    {
+      "timestamp": 1684576800,
+      "price": -0.15,
+      "datetime": "2023-05-20 13:00"
+    },
+    {
+      "timestamp": 1684580400,
+      "price": -0.55,
+      "datetime": "2023-05-20 14:00"
+    },
+    {
+      "timestamp": 1684584000,
+      "price": -0.09,
+      "datetime": "2023-05-20 15:00"
+    },
+    {
+      "timestamp": 1684587600,
+      "price": 0.0,
+      "datetime": "2023-05-20 16:00"
+    },
+    {
+      "timestamp": 1684591200,
+      "price": 1.32,
+      "datetime": "2023-05-20 17:00"
+    },
+    {
+      "timestamp": 1684594800,
+      "price": 25.94,
+      "datetime": "2023-05-20 18:00"
+    },
+    {
+      "timestamp": 1684598400,
+      "price": 53.68,
+      "datetime": "2023-05-20 19:00"
+    },
+    {
+      "timestamp": 1684602000,
+      "price": 78.44,
+      "datetime": "2023-05-20 20:00"
+    },
+    {
+      "timestamp": 1684605600,
+      "price": 87.69,
+      "datetime": "2023-05-20 21:00"
+    },
+    {
+      "timestamp": 1684609200,
+      "price": 81.06,
+      "datetime": "2023-05-20 22:00"
+    },
+    {
+      "timestamp": 1684612800,
+      "price": 76.71,
+      "datetime": "2023-05-20 23:00"
+    },
+    {
+      "timestamp": 1684616400,
+      "price": 71.26,
+      "datetime": "2023-05-21 00:00"
+    },
+    {
+      "timestamp": 1684620000,
+      "price": 50.95,
+      "datetime": "2023-05-21 01:00"
+    },
+    {
+      "timestamp": 1684623600,
+      "price": 39.08,
+      "datetime": "2023-05-21 02:00"
+    },
+    {
+      "timestamp": 1684627200,
+      "price": 33.07,
+      "datetime": "2023-05-21 03:00"
+    },
+    {
+      "timestamp": 1684630800,
+      "price": 28.07,
+      "datetime": "2023-05-21 04:00"
+    },
+    {
+      "timestamp": 1684634400,
+      "price": 29.23,
+      "datetime": "2023-05-21 05:00"
+    },
+    {
+      "timestamp": 1684638000,
+      "price": 27.58,
+      "datetime": "2023-05-21 06:00"
+    },
+    {
+      "timestamp": 1684641600,
+      "price": 1.24,
+      "datetime": "2023-05-21 07:00"
+    },
+    {
+      "timestamp": 1684645200,
+      "price": 2.57,
+      "datetime": "2023-05-21 08:00"
+    },
+    {
+      "timestamp": 1684648800,
+      "price": 3.38,
+      "datetime": "2023-05-21 09:00"
+    },
+    {
+      "timestamp": 1684652400,
+      "price": 2.14,
+      "datetime": "2023-05-21 10:00"
+    },
+    {
+      "timestamp": 1684656000,
+      "price": 0.0,
+      "datetime": "2023-05-21 11:00"
+    },
+    {
+      "timestamp": 1684659600,
+      "price": -0.48,
+      "datetime": "2023-05-21 12:00"
+    },
+    {
+      "timestamp": 1684663200,
+      "price": -1.11,
+      "datetime": "2023-05-21 13:00"
+    },
+    {
+      "timestamp": 1684666800,
+      "price": -1.11,
+      "datetime": "2023-05-21 14:00"
+    },
+    {
+      "timestamp": 1684670400,
+      "price": -1.11,
+      "datetime": "2023-05-21 15:00"
+    },
+    {
+      "timestamp": 1684674000,
+      "price": -1.11,
+      "datetime": "2023-05-21 16:00"
+    },
+    {
+      "timestamp": 1684677600,
+      "price": -0.41,
+      "datetime": "2023-05-21 17:00"
+    },
+    {
+      "timestamp": 1684681200,
+      "price": 2.22,
+      "datetime": "2023-05-21 18:00"
+    },
+    {
+      "timestamp": 1684684800,
+      "price": 41.34,
+      "datetime": "2023-05-21 19:00"
+    },
+    {
+      "timestamp": 1684688400,
+      "price": 85.49,
+      "datetime": "2023-05-21 20:00"
+    },
+    {
+      "timestamp": 1684692000,
+      "price": 90.87,
+      "datetime": "2023-05-21 21:00"
+    },
+    {
+      "timestamp": 1684695600,
+      "price": 88.82,
+      "datetime": "2023-05-21 22:00"
+    },
+    {
+      "timestamp": 1684699200,
+      "price": 87.78,
+      "datetime": "2023-05-21 23:00"
+    },
+    {
+      "timestamp": 1684702800,
+      "price": 76.91,
+      "datetime": "2023-05-22 00:00"
+    },
+    {
+      "timestamp": 1684706400,
+      "price": 71.94,
+      "datetime": "2023-05-22 01:00"
+    },
+    {
+      "timestamp": 1684710000,
+      "price": 66.65,
+      "datetime": "2023-05-22 02:00"
+    },
+    {
+      "timestamp": 1684713600,
+      "price": 67.74,
+      "datetime": "2023-05-22 03:00"
+    },
+    {
+      "timestamp": 1684717200,
+      "price": 71.81,
+      "datetime": "2023-05-22 04:00"
+    },
+    {
+      "timestamp": 1684720800,
+      "price": 72.99,
+      "datetime": "2023-05-22 05:00"
+    },
+    {
+      "timestamp": 1684724400,
+      "price": 98.39,
+      "datetime": "2023-05-22 06:00"
+    },
+    {
+      "timestamp": 1684728000,
+      "price": 110.26,
+      "datetime": "2023-05-22 07:00"
+    },
+    {
+      "timestamp": 1684731600,
+      "price": 76.92,
+      "datetime": "2023-05-22 08:00"
+    },
+    {
+      "timestamp": 1684735200,
+      "price": 88.18,
+      "datetime": "2023-05-22 09:00"
+    },
+    {
+      "timestamp": 1684738800,
+      "price": 80.54,
+      "datetime": "2023-05-22 10:00"
+    },
+    {
+      "timestamp": 1684742400,
+      "price": 57.31,
+      "datetime": "2023-05-22 11:00"
+    },
+    {
+      "timestamp": 1684746000,
+      "price": 59.95,
+      "datetime": "2023-05-22 12:00"
+    },
+    {
+      "timestamp": 1684749600,
+      "price": 20.07,
+      "datetime": "2023-05-22 13:00"
+    },
+    {
+      "timestamp": 1684753200,
+      "price": 17.24,
+      "datetime": "2023-05-22 14:00"
+    },
+    {
+      "timestamp": 1684756800,
+      "price": 16.08,
+      "datetime": "2023-05-22 15:00"
+    },
+    {
+      "timestamp": 1684760400,
+      "price": 86.39,
+      "datetime": "2023-05-22 16:00"
+    },
+    {
+      "timestamp": 1684764000,
+      "price": 108.02,
+      "datetime": "2023-05-22 17:00"
+    },
+    {
+      "timestamp": 1684767600,
+      "price": 110.07,
+      "datetime": "2023-05-22 18:00"
+    },
+    {
+      "timestamp": 1684771200,
+      "price": 90.0,
+      "datetime": "2023-05-22 19:00"
+    },
+    {
+      "timestamp": 1684774800,
+      "price": 108.01,
+      "datetime": "2023-05-22 20:00"
+    },
+    {
+      "timestamp": 1684778400,
+      "price": 119.0,
+      "datetime": "2023-05-22 21:00"
+    },
+    {
+      "timestamp": 1684782000,
+      "price": 112.8,
+      "datetime": "2023-05-22 22:00"
+    },
+    {
+      "timestamp": 1684785600,
+      "price": 104.24,
+      "datetime": "2023-05-22 23:00"
+    },
+    {
+      "timestamp": 1684789200,
+      "price": 84.48,
+      "datetime": "2023-05-23 00:00"
+    },
+    {
+      "timestamp": 1684792800,
+      "price": 70.54,
+      "datetime": "2023-05-23 01:00"
+    },
+    {
+      "timestamp": 1684796400,
+      "price": 65.71,
+      "datetime": "2023-05-23 02:00"
+    },
+    {
+      "timestamp": 1684800000,
+      "price": 65.51,
+      "datetime": "2023-05-23 03:00"
+    },
+    {
+      "timestamp": 1684803600,
+      "price": 62.12,
+      "datetime": "2023-05-23 04:00"
+    },
+    {
+      "timestamp": 1684807200,
+      "price": 61.73,
+      "datetime": "2023-05-23 05:00"
+    },
+    {
+      "timestamp": 1684810800,
+      "price": 76.76,
+      "datetime": "2023-05-23 06:00"
+    },
+    {
+      "timestamp": 1684814400,
+      "price": 98.66,
+      "datetime": "2023-05-23 07:00"
+    },
+    {
+      "timestamp": 1684818000,
+      "price": 105.39,
+      "datetime": "2023-05-23 08:00"
+    },
+    {
+      "timestamp": 1684821600,
+      "price": 101.0,
+      "datetime": "2023-05-23 09:00"
+    },
+    {
+      "timestamp": 1684825200,
+      "price": 91.75,
+      "datetime": "2023-05-23 10:00"
+    },
+    {
+      "timestamp": 1684828800,
+      "price": 83.32,
+      "datetime": "2023-05-23 11:00"
+    },
+    {
+      "timestamp": 1684832400,
+      "price": 72.74,
+      "datetime": "2023-05-23 12:00"
+    },
+    {
+      "timestamp": 1684836000,
+      "price": 43.88,
+      "datetime": "2023-05-23 13:00"
+    },
+    {
+      "timestamp": 1684839600,
+      "price": 24.04,
+      "datetime": "2023-05-23 14:00"
+    },
+    {
+      "timestamp": 1684843200,
+      "price": 9.8,
+      "datetime": "2023-05-23 15:00"
+    },
+    {
+      "timestamp": 1684846800,
+      "price": 86.39,
+      "datetime": "2023-05-23 16:00"
+    },
+    {
+      "timestamp": 1684850400,
+      "price": 105.0,
+      "datetime": "2023-05-23 17:00"
+    },
+    {
+      "timestamp": 1684854000,
+      "price": 95.09,
+      "datetime": "2023-05-23 18:00"
+    },
+    {
+      "timestamp": 1684857600,
+      "price": 104.28,
+      "datetime": "2023-05-23 19:00"
+    },
+    {
+      "timestamp": 1684861200,
+      "price": 108.05,
+      "datetime": "2023-05-23 20:00"
+    },
+    {
+      "timestamp": 1684864800,
+      "price": 108.03,
+      "datetime": "2023-05-23 21:00"
+    },
+    {
+      "timestamp": 1684868400,
+      "price": 100.86,
+      "datetime": "2023-05-23 22:00"
+    },
+    {
+      "timestamp": 1684872000,
+      "price": 97.69,
+      "datetime": "2023-05-23 23:00"
+    },
+    {
+      "timestamp": 1684875600,
+      "price": 65.73,
+      "datetime": "2023-05-24 00:00"
+    },
+    {
+      "timestamp": 1684879200,
+      "price": 66.3,
+      "datetime": "2023-05-24 01:00"
+    },
+    {
+      "timestamp": 1684882800,
+      "price": 66.01,
+      "datetime": "2023-05-24 02:00"
+    },
+    {
+      "timestamp": 1684886400,
+      "price": 66.86,
+      "datetime": "2023-05-24 03:00"
+    },
+    {
+      "timestamp": 1684890000,
+      "price": 67.52,
+      "datetime": "2023-05-24 04:00"
+    },
+    {
+      "timestamp": 1684893600,
+      "price": 73.94,
+      "datetime": "2023-05-24 05:00"
+    },
+    {
+      "timestamp": 1684897200,
+      "price": 84.33,
+      "datetime": "2023-05-24 06:00"
+    },
+    {
+      "timestamp": 1684900800,
+      "price": 108.45,
+      "datetime": "2023-05-24 07:00"
+    },
+    {
+      "timestamp": 1684904400,
+      "price": 124.15,
+      "datetime": "2023-05-24 08:00"
+    },
+    {
+      "timestamp": 1684908000,
+      "price": 109.66,
+      "datetime": "2023-05-24 09:00"
+    },
+    {
+      "timestamp": 1684911600,
+      "price": 85.2,
+      "datetime": "2023-05-24 10:00"
+    },
+    {
+      "timestamp": 1684915200,
+      "price": 85.2,
+      "datetime": "2023-05-24 11:00"
+    },
+    {
+      "timestamp": 1684918800,
+      "price": -1.07,
+      "datetime": "2023-05-24 12:00"
+    },
+    {
+      "timestamp": 1684922400,
+      "price": -1.11,
+      "datetime": "2023-05-24 13:00"
+    },
+    {
+      "timestamp": 1684926000,
+      "price": -1.11,
+      "datetime": "2023-05-24 14:00"
+    },
+    {
+      "timestamp": 1684929600,
+      "price": -1.11,
+      "datetime": "2023-05-24 15:00"
+    },
+    {
+      "timestamp": 1684933200,
+      "price": -1.11,
+      "datetime": "2023-05-24 16:00"
+    },
+    {
+      "timestamp": 1684936800,
+      "price": -1.1,
+      "datetime": "2023-05-24 17:00"
+    },
+    {
+      "timestamp": 1684940400,
+      "price": 105.2,
+      "datetime": "2023-05-24 18:00"
+    },
+    {
+      "timestamp": 1684944000,
+      "price": 115.06,
+      "datetime": "2023-05-24 19:00"
+    },
+    {
+      "timestamp": 1684947600,
+      "price": 166.47,
+      "datetime": "2023-05-24 20:00"
+    },
+    {
+      "timestamp": 1684951200,
+      "price": 178.29,
+      "datetime": "2023-05-24 21:00"
+    },
+    {
+      "timestamp": 1684954800,
+      "price": 149.83,
+      "datetime": "2023-05-24 22:00"
+    },
+    {
+      "timestamp": 1684958400,
+      "price": 114.64,
+      "datetime": "2023-05-24 23:00"
+    },
+    {
+      "timestamp": 1684962000,
+      "price": 84.73,
+      "datetime": "2023-05-25 00:00"
+    },
+    {
+      "timestamp": 1684965600,
+      "price": 83.99,
+      "datetime": "2023-05-25 01:00"
+    },
+    {
+      "timestamp": 1684969200,
+      "price": 83.99,
+      "datetime": "2023-05-25 02:00"
+    },
+    {
+      "timestamp": 1684972800,
+      "price": 58.55,
+      "datetime": "2023-05-25 03:00"
+    },
+    {
+      "timestamp": 1684976400,
+      "price": 50.4,
+      "datetime": "2023-05-25 04:00"
+    },
+    {
+      "timestamp": 1684980000,
+      "price": 48.7,
+      "datetime": "2023-05-25 05:00"
+    },
+    {
+      "timestamp": 1684983600,
+      "price": 50.4,
+      "datetime": "2023-05-25 06:00"
+    },
+    {
+      "timestamp": 1684987200,
+      "price": 112.92,
+      "datetime": "2023-05-25 07:00"
+    },
+    {
+      "timestamp": 1684990800,
+      "price": 121.49,
+      "datetime": "2023-05-25 08:00"
+    },
+    {
+      "timestamp": 1684994400,
+      "price": 101.5,
+      "datetime": "2023-05-25 09:00"
+    },
+    {
+      "timestamp": 1684998000,
+      "price": 61.61,
+      "datetime": "2023-05-25 10:00"
+    },
+    {
+      "timestamp": 1685001600,
+      "price": 58.81,
+      "datetime": "2023-05-25 11:00"
+    },
+    {
+      "timestamp": 1685005200,
+      "price": 45.0,
+      "datetime": "2023-05-25 12:00"
+    },
+    {
+      "timestamp": 1685008800,
+      "price": 83.99,
+      "datetime": "2023-05-25 13:00"
+    },
+    {
+      "timestamp": 1685012400,
+      "price": 83.99,
+      "datetime": "2023-05-25 14:00"
+    },
+    {
+      "timestamp": 1685016000,
+      "price": 34.07,
+      "datetime": "2023-05-25 15:00"
+    },
+    {
+      "timestamp": 1685019600,
+      "price": 4.09,
+      "datetime": "2023-05-25 16:00"
+    },
+    {
+      "timestamp": 1685023200,
+      "price": 60.82,
+      "datetime": "2023-05-25 17:00"
+    },
+    {
+      "timestamp": 1685026800,
+      "price": 84.0,
+      "datetime": "2023-05-25 18:00"
+    },
+    {
+      "timestamp": 1685030400,
+      "price": 130.1,
+      "datetime": "2023-05-25 19:00"
+    },
+    {
+      "timestamp": 1685034000,
+      "price": 104.05,
+      "datetime": "2023-05-25 20:00"
+    },
+    {
+      "timestamp": 1685037600,
+      "price": 119.86,
+      "datetime": "2023-05-25 21:00"
+    },
+    {
+      "timestamp": 1685041200,
+      "price": 106.08,
+      "datetime": "2023-05-25 22:00"
+    },
+    {
+      "timestamp": 1685044800,
+      "price": 65.41,
+      "datetime": "2023-05-25 23:00"
+    },
+    {
+      "timestamp": 1685048400,
+      "price": 59.32,
+      "datetime": "2023-05-26 00:00"
+    },
+    {
+      "timestamp": 1685052000,
+      "price": 62.94,
+      "datetime": "2023-05-26 01:00"
+    },
+    {
+      "timestamp": 1685055600,
+      "price": 61.86,
+      "datetime": "2023-05-26 02:00"
+    },
+    {
+      "timestamp": 1685059200,
+      "price": 60.46,
+      "datetime": "2023-05-26 03:00"
+    },
+    {
+      "timestamp": 1685062800,
+      "price": 4.09,
+      "datetime": "2023-05-26 04:00"
+    },
+    {
+      "timestamp": 1685066400,
+      "price": 4.09,
+      "datetime": "2023-05-26 05:00"
+    },
+    {
+      "timestamp": 1685070000,
+      "price": 22.05,
+      "datetime": "2023-05-26 06:00"
+    },
+    {
+      "timestamp": 1685073600,
+      "price": 128.08,
+      "datetime": "2023-05-26 07:00"
+    },
+    {
+      "timestamp": 1685077200,
+      "price": 103.06,
+      "datetime": "2023-05-26 08:00"
+    },
+    {
+      "timestamp": 1685080800,
+      "price": 95.0,
+      "datetime": "2023-05-26 09:00"
+    },
+    {
+      "timestamp": 1685084400,
+      "price": 74.9,
+      "datetime": "2023-05-26 10:00"
+    },
+    {
+      "timestamp": 1685088000,
+      "price": 38.54,
+      "datetime": "2023-05-26 11:00"
+    },
+    {
+      "timestamp": 1685091600,
+      "price": 4.02,
+      "datetime": "2023-05-26 12:00"
+    },
+    {
+      "timestamp": 1685095200,
+      "price": 4.05,
+      "datetime": "2023-05-26 13:00"
+    },
+    {
+      "timestamp": 1685098800,
+      "price": 0.97,
+      "datetime": "2023-05-26 14:00"
+    },
+    {
+      "timestamp": 1685102400,
+      "price": 0.0,
+      "datetime": "2023-05-26 15:00"
+    },
+    {
+      "timestamp": 1685106000,
+      "price": 4.05,
+      "datetime": "2023-05-26 16:00"
+    },
+    {
+      "timestamp": 1685109600,
+      "price": 9.42,
+      "datetime": "2023-05-26 17:00"
+    },
+    {
+      "timestamp": 1685113200,
+      "price": 43.12,
+      "datetime": "2023-05-26 18:00"
+    },
+    {
+      "timestamp": 1685116800,
+      "price": 80.9,
+      "datetime": "2023-05-26 19:00"
+    },
+    {
+      "timestamp": 1685120400,
+      "price": 83.26,
+      "datetime": "2023-05-26 20:00"
+    },
+    {
+      "timestamp": 1685124000,
+      "price": 112.85,
+      "datetime": "2023-05-26 21:00"
+    },
+    {
+      "timestamp": 1685127600,
+      "price": 110.0,
+      "datetime": "2023-05-26 22:00"
+    },
+    {
+      "timestamp": 1685131200,
+      "price": 99.5,
+      "datetime": "2023-05-26 23:00"
+    },
+    {
+      "timestamp": 1685134800,
+      "price": 90.28,
+      "datetime": "2023-05-27 00:00"
+    },
+    {
+      "timestamp": 1685138400,
+      "price": 87.54,
+      "datetime": "2023-05-27 01:00"
+    },
+    {
+      "timestamp": 1685142000,
+      "price": 82.69,
+      "datetime": "2023-05-27 02:00"
+    },
+    {
+      "timestamp": 1685145600,
+      "price": 82.7,
+      "datetime": "2023-05-27 03:00"
+    },
+    {
+      "timestamp": 1685149200,
+      "price": 84.26,
+      "datetime": "2023-05-27 04:00"
+    },
+    {
+      "timestamp": 1685152800,
+      "price": 87.67,
+      "datetime": "2023-05-27 05:00"
+    },
+    {
+      "timestamp": 1685156400,
+      "price": 85.77,
+      "datetime": "2023-05-27 06:00"
+    },
+    {
+      "timestamp": 1685160000,
+      "price": 82.7,
+      "datetime": "2023-05-27 07:00"
+    },
+    {
+      "timestamp": 1685163600,
+      "price": 82.99,
+      "datetime": "2023-05-27 08:00"
+    },
+    {
+      "timestamp": 1685167200,
+      "price": 72.61,
+      "datetime": "2023-05-27 09:00"
+    },
+    {
+      "timestamp": 1685170800,
+      "price": 53.74,
+      "datetime": "2023-05-27 10:00"
+    },
+    {
+      "timestamp": 1685174400,
+      "price": 16.33,
+      "datetime": "2023-05-27 11:00"
+    },
+    {
+      "timestamp": 1685178000,
+      "price": 1.48,
+      "datetime": "2023-05-27 12:00"
+    },
+    {
+      "timestamp": 1685181600,
+      "price": 4.04,
+      "datetime": "2023-05-27 13:00"
+    },
+    {
+      "timestamp": 1685185200,
+      "price": 4.02,
+      "datetime": "2023-05-27 14:00"
+    },
+    {
+      "timestamp": 1685188800,
+      "price": -1.62,
+      "datetime": "2023-05-27 15:00"
+    },
+    {
+      "timestamp": 1685192400,
+      "price": 0.4,
+      "datetime": "2023-05-27 16:00"
+    },
+    {
+      "timestamp": 1685196000,
+      "price": 2.26,
+      "datetime": "2023-05-27 17:00"
+    },
+    {
+      "timestamp": 1685199600,
+      "price": 55.08,
+      "datetime": "2023-05-27 18:00"
+    },
+    {
+      "timestamp": 1685203200,
+      "price": 84.85,
+      "datetime": "2023-05-27 19:00"
+    },
+    {
+      "timestamp": 1685206800,
+      "price": 102.22,
+      "datetime": "2023-05-27 20:00"
+    },
+    {
+      "timestamp": 1685210400,
+      "price": 121.93,
+      "datetime": "2023-05-27 21:00"
+    },
+    {
+      "timestamp": 1685214000,
+      "price": 113.08,
+      "datetime": "2023-05-27 22:00"
+    },
+    {
+      "timestamp": 1685217600,
+      "price": 100.03,
+      "datetime": "2023-05-27 23:00"
+    },
+    {
+      "timestamp": 1685221200,
+      "price": 94.71,
+      "datetime": "2023-05-28 00:00"
+    },
+    {
+      "timestamp": 1685224800,
+      "price": 85.0,
+      "datetime": "2023-05-28 01:00"
+    },
+    {
+      "timestamp": 1685228400,
+      "price": 81.98,
+      "datetime": "2023-05-28 02:00"
+    },
+    {
+      "timestamp": 1685232000,
+      "price": 79.96,
+      "datetime": "2023-05-28 03:00"
+    },
+    {
+      "timestamp": 1685235600,
+      "price": 76.0,
+      "datetime": "2023-05-28 04:00"
+    },
+    {
+      "timestamp": 1685239200,
+      "price": 75.99,
+      "datetime": "2023-05-28 05:00"
+    },
+    {
+      "timestamp": 1685242800,
+      "price": 74.64,
+      "datetime": "2023-05-28 06:00"
+    },
+    {
+      "timestamp": 1685246400,
+      "price": 69.44,
+      "datetime": "2023-05-28 07:00"
+    },
+    {
+      "timestamp": 1685250000,
+      "price": 60.67,
+      "datetime": "2023-05-28 08:00"
+    },
+    {
+      "timestamp": 1685253600,
+      "price": 36.79,
+      "datetime": "2023-05-28 09:00"
+    },
+    {
+      "timestamp": 1685257200,
+      "price": 0.0,
+      "datetime": "2023-05-28 10:00"
+    },
+    {
+      "timestamp": 1685260800,
+      "price": -3.08,
+      "datetime": "2023-05-28 11:00"
+    },
+    {
+      "timestamp": 1685264400,
+      "price": -10.06,
+      "datetime": "2023-05-28 12:00"
+    },
+    {
+      "timestamp": 1685268000,
+      "price": -10.03,
+      "datetime": "2023-05-28 13:00"
+    },
+    {
+      "timestamp": 1685271600,
+      "price": -9.91,
+      "datetime": "2023-05-28 14:00"
+    },
+    {
+      "timestamp": 1685275200,
+      "price": -10.0,
+      "datetime": "2023-05-28 15:00"
+    },
+    {
+      "timestamp": 1685278800,
+      "price": -4.91,
+      "datetime": "2023-05-28 16:00"
+    },
+    {
+      "timestamp": 1685282400,
+      "price": -5.04,
+      "datetime": "2023-05-28 17:00"
+    },
+    {
+      "timestamp": 1685286000,
+      "price": -0.06,
+      "datetime": "2023-05-28 18:00"
+    },
+    {
+      "timestamp": 1685289600,
+      "price": 50.0,
+      "datetime": "2023-05-28 19:00"
+    },
+    {
+      "timestamp": 1685293200,
+      "price": 72.9,
+      "datetime": "2023-05-28 20:00"
+    },
+    {
+      "timestamp": 1685296800,
+      "price": 105.42,
+      "datetime": "2023-05-28 21:00"
+    },
+    {
+      "timestamp": 1685300400,
+      "price": 99.34,
+      "datetime": "2023-05-28 22:00"
+    },
+    {
+      "timestamp": 1685304000,
+      "price": 82.29,
+      "datetime": "2023-05-28 23:00"
+    },
+    {
+      "timestamp": 1685307600,
+      "price": 69.5,
+      "datetime": "2023-05-29 00:00"
+    },
+    {
+      "timestamp": 1685311200,
+      "price": 12.38,
+      "datetime": "2023-05-29 01:00"
+    },
+    {
+      "timestamp": 1685314800,
+      "price": 4.08,
+      "datetime": "2023-05-29 02:00"
+    },
+    {
+      "timestamp": 1685318400,
+      "price": 4.07,
+      "datetime": "2023-05-29 03:00"
+    },
+    {
+      "timestamp": 1685322000,
+      "price": 4.09,
+      "datetime": "2023-05-29 04:00"
+    },
+    {
+      "timestamp": 1685325600,
+      "price": 53.21,
+      "datetime": "2023-05-29 05:00"
+    },
+    {
+      "timestamp": 1685329200,
+      "price": 62.56,
+      "datetime": "2023-05-29 06:00"
+    },
+    {
+      "timestamp": 1685332800,
+      "price": 66.66,
+      "datetime": "2023-05-29 07:00"
+    },
+    {
+      "timestamp": 1685336400,
+      "price": 58.71,
+      "datetime": "2023-05-29 08:00"
+    },
+    {
+      "timestamp": 1685340000,
+      "price": 29.92,
+      "datetime": "2023-05-29 09:00"
+    },
+    {
+      "timestamp": 1685343600,
+      "price": 4.03,
+      "datetime": "2023-05-29 10:00"
+    },
+    {
+      "timestamp": 1685347200,
+      "price": 3.49,
+      "datetime": "2023-05-29 11:00"
+    },
+    {
+      "timestamp": 1685350800,
+      "price": 2.3,
+      "datetime": "2023-05-29 12:00"
+    },
+    {
+      "timestamp": 1685354400,
+      "price": 2.1,
+      "datetime": "2023-05-29 13:00"
+    },
+    {
+      "timestamp": 1685358000,
+      "price": 1.87,
+      "datetime": "2023-05-29 14:00"
+    },
+    {
+      "timestamp": 1685361600,
+      "price": 1.63,
+      "datetime": "2023-05-29 15:00"
+    },
+    {
+      "timestamp": 1685365200,
+      "price": 1.68,
+      "datetime": "2023-05-29 16:00"
+    },
+    {
+      "timestamp": 1685368800,
+      "price": 1.54,
+      "datetime": "2023-05-29 17:00"
+    },
+    {
+      "timestamp": 1685372400,
+      "price": 57.61,
+      "datetime": "2023-05-29 18:00"
+    },
+    {
+      "timestamp": 1685376000,
+      "price": 79.78,
+      "datetime": "2023-05-29 19:00"
+    },
+    {
+      "timestamp": 1685379600,
+      "price": 82.3,
+      "datetime": "2023-05-29 20:00"
+    },
+    {
+      "timestamp": 1685383200,
+      "price": 82.3,
+      "datetime": "2023-05-29 21:00"
+    },
+    {
+      "timestamp": 1685386800,
+      "price": 82.3,
+      "datetime": "2023-05-29 22:00"
+    },
+    {
+      "timestamp": 1685390400,
+      "price": 82.29,
+      "datetime": "2023-05-29 23:00"
+    },
+    {
+      "timestamp": 1685394000,
+      "price": 77.27,
+      "datetime": "2023-05-30 00:00"
+    },
+    {
+      "timestamp": 1685397600,
+      "price": 8.57,
+      "datetime": "2023-05-30 01:00"
+    },
+    {
+      "timestamp": 1685401200,
+      "price": 8.06,
+      "datetime": "2023-05-30 02:00"
+    },
+    {
+      "timestamp": 1685404800,
+      "price": 9.04,
+      "datetime": "2023-05-30 03:00"
+    },
+    {
+      "timestamp": 1685408400,
+      "price": 8.4,
+      "datetime": "2023-05-30 04:00"
+    },
+    {
+      "timestamp": 1685412000,
+      "price": 11.68,
+      "datetime": "2023-05-30 05:00"
+    },
+    {
+      "timestamp": 1685415600,
+      "price": 82.09,
+      "datetime": "2023-05-30 06:00"
+    },
+    {
+      "timestamp": 1685419200,
+      "price": 82.09,
+      "datetime": "2023-05-30 07:00"
+    },
+    {
+      "timestamp": 1685422800,
+      "price": 117.96,
+      "datetime": "2023-05-30 08:00"
+    },
+    {
+      "timestamp": 1685426400,
+      "price": 108.64,
+      "datetime": "2023-05-30 09:00"
+    },
+    {
+      "timestamp": 1685430000,
+      "price": 90.06,
+      "datetime": "2023-05-30 10:00"
+    },
+    {
+      "timestamp": 1685433600,
+      "price": 82.37,
+      "datetime": "2023-05-30 11:00"
+    },
+    {
+      "timestamp": 1685437200,
+      "price": 70.27,
+      "datetime": "2023-05-30 12:00"
+    },
+    {
+      "timestamp": 1685440800,
+      "price": 64.49,
+      "datetime": "2023-05-30 13:00"
+    },
+    {
+      "timestamp": 1685444400,
+      "price": 57.36,
+      "datetime": "2023-05-30 14:00"
+    },
+    {
+      "timestamp": 1685448000,
+      "price": 19.63,
+      "datetime": "2023-05-30 15:00"
+    },
+    {
+      "timestamp": 1685451600,
+      "price": 13.1,
+      "datetime": "2023-05-30 16:00"
+    },
+    {
+      "timestamp": 1685455200,
+      "price": 11.92,
+      "datetime": "2023-05-30 17:00"
+    },
+    {
+      "timestamp": 1685458800,
+      "price": 9.55,
+      "datetime": "2023-05-30 18:00"
+    },
+    {
+      "timestamp": 1685462400,
+      "price": 82.1,
+      "datetime": "2023-05-30 19:00"
+    },
+    {
+      "timestamp": 1685466000,
+      "price": 82.1,
+      "datetime": "2023-05-30 20:00"
+    },
+    {
+      "timestamp": 1685469600,
+      "price": 150.85,
+      "datetime": "2023-05-30 21:00"
+    },
+    {
+      "timestamp": 1685473200,
+      "price": 82.1,
+      "datetime": "2023-05-30 22:00"
+    },
+    {
+      "timestamp": 1685476800,
+      "price": 82.09,
+      "datetime": "2023-05-30 23:00"
+    },
+    {
+      "timestamp": 1685480400,
+      "price": -1.29,
+      "datetime": "2023-05-31 00:00"
+    },
+    {
+      "timestamp": 1685484000,
+      "price": -3.7,
+      "datetime": "2023-05-31 01:00"
+    },
+    {
+      "timestamp": 1685487600,
+      "price": -3.84,
+      "datetime": "2023-05-31 02:00"
+    },
+    {
+      "timestamp": 1685491200,
+      "price": -3.79,
+      "datetime": "2023-05-31 03:00"
+    },
+    {
+      "timestamp": 1685494800,
+      "price": -4.13,
+      "datetime": "2023-05-31 04:00"
+    },
+    {
+      "timestamp": 1685498400,
+      "price": -3.34,
+      "datetime": "2023-05-31 05:00"
+    },
+    {
+      "timestamp": 1685502000,
+      "price": -2.58,
+      "datetime": "2023-05-31 06:00"
+    },
+    {
+      "timestamp": 1685505600,
+      "price": -0.14,
+      "datetime": "2023-05-31 07:00"
+    },
+    {
+      "timestamp": 1685509200,
+      "price": 0.34,
+      "datetime": "2023-05-31 08:00"
+    },
+    {
+      "timestamp": 1685512800,
+      "price": 1.17,
+      "datetime": "2023-05-31 09:00"
+    },
+    {
+      "timestamp": 1685516400,
+      "price": 1.2,
+      "datetime": "2023-05-31 10:00"
+    },
+    {
+      "timestamp": 1685520000,
+      "price": 0.98,
+      "datetime": "2023-05-31 11:00"
+    },
+    {
+      "timestamp": 1685523600,
+      "price": 0.11,
+      "datetime": "2023-05-31 12:00"
+    },
+    {
+      "timestamp": 1685527200,
+      "price": 0.1,
+      "datetime": "2023-05-31 13:00"
+    },
+    {
+      "timestamp": 1685530800,
+      "price": -0.02,
+      "datetime": "2023-05-31 14:00"
+    },
+    {
+      "timestamp": 1685534400,
+      "price": -0.81,
+      "datetime": "2023-05-31 15:00"
+    },
+    {
+      "timestamp": 1685538000,
+      "price": -0.17,
+      "datetime": "2023-05-31 16:00"
+    },
+    {
+      "timestamp": 1685541600,
+      "price": 0.0,
+      "datetime": "2023-05-31 17:00"
+    },
+    {
+      "timestamp": 1685545200,
+      "price": 82.39,
+      "datetime": "2023-05-31 18:00"
+    },
+    {
+      "timestamp": 1685548800,
+      "price": 82.4,
+      "datetime": "2023-05-31 19:00"
+    },
+    {
+      "timestamp": 1685552400,
+      "price": 119.03,
+      "datetime": "2023-05-31 20:00"
+    },
+    {
+      "timestamp": 1685556000,
+      "price": 88.18,
+      "datetime": "2023-05-31 21:00"
+    },
+    {
+      "timestamp": 1685559600,
+      "price": 82.4,
+      "datetime": "2023-05-31 22:00"
+    },
+    {
+      "timestamp": 1685563200,
+      "price": 95.09,
+      "datetime": "2023-05-31 23:00"
+    },
+    {
+      "timestamp": 1685566800,
+      "price": 91.76,
+      "datetime": "2023-06-01 00:00"
+    },
+    {
+      "timestamp": 1685570400,
+      "price": 84.15,
+      "datetime": "2023-06-01 01:00"
+    },
+    {
+      "timestamp": 1685574000,
+      "price": 74.3,
+      "datetime": "2023-06-01 02:00"
+    }
+  ]
+}
